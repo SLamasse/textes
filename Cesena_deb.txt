@@ -1,0 +1,4428 @@
+
+\marginnote{7r°} 
+
+Cy commence ung petit traicté de la praticque de algorisme que autrement lon dit arismeticque, qui est lune des sept
+arts liberalz traictant des nombres par lesquelz tous comptes se font. Et pourtant que cest science qui touche faict de
+comptes est elle utile et bien seant a toutes manieres de gents pour ce que par icelle sainement et legierement se
+peuent faire tous comptes et toutes raisons tant en toutes marchandyes, en faict de change, en geometrie, en
+astronomye, que aussi en moult d'autres negoces, lesquelles raisons et comptes ne se pourroient
+bonnement faire sans grand fatigation et rompement de teste, sinon que ce feust par le moyen de ceste science. Le
+present livre a cinq parties principalz dont la premiere traicte du nombre entier, la seconde du nombre roupt, la
+tierce de la maniere de applicquer le nombre entier et le nombre roupt, la quarte des raisons qui se font par la regle
+de troys, la quinte du faict de change. Item la premiere partie de ce livre contiend cinq chapitres dont le premier est
+numeration, le second est addicion, le tiers est sustraction, le quart multiplicacion et le quint est division ou
+partition 
+
+
+
+
+Numeration.
+
+
+
+
+Nombrer est le nombre en l'entendement conceu par figures communes visiblement representez ou de
+parolles perceptiblement exprimer. Pour savoir nombrer et user de ceste science il conviend savoir
+qu'ilz sont des figures en ceste art par lesquelles l'on peut escript et
+poser tout nombre lesquelles sont telles : $1$,   $2$,   $3$,   $4$,   $5$,   $6$,   $7$,   $8$,   $9$,   $0$   dont la premiere devers la partie senestre
+vault ung, aultre deux, l'aultre troys et ainsi continuant jusques \marginnote{7v°} a la dixiesme qui
+de soy ne vault ou ne signifie rien (   ) et apres elle ensuivants (   )… item plus doit on savoir que une
+chacune de ces dix figures posees ou premier lieu de la partie dextre signifie une foiz soy mesmes et posee au second
+lieu en tirant vers la part senestre signifie dix foiz soy mesmes et ou tiers lieu cent foiz et au quart lieu mille
+foiz et au quint dix mille foiz et ainsi des autres lieux en progredissant par proportion decuple . 
+
+Et pour plus facilement nombrer ung grand nombre, l'on peut diviser les figures de six en six en
+comencant a la part dextre et sus chacune septiesme figure l'on peut metre ung petit poinct. Et
+note que toutes les figures depuis le premier poinct jusques au second se tant y en a sont toutes millions et du second
+au tiers sont tous millions de millions et du tiers au quart sont tous millions de millions de millions. Et ainsi des
+autres poincts en prononciant ce vocable de million autant de foiz comme il y aura de poincts. 
+
+Item qui vouldroit l'on pourroit dire au premier poinct million, au second byllion, au tiers poinct
+tryllion, au quart poinct quarlion, au cinquiesme quintlion, au sixiesme sixlion, au septiesme seplyon, au huitiesme
+octyllion, au neusviesme novillion. Et ainsi des autres poincts se plus en y avoit. Item l'on doit
+savoir que ung million vault mille  milliers de unitez et un billion vault mille milliers de millions de unitez ung
+tryllion vault mille milliers de billions et ung quarlion vault mille milliers de tryllions. Et ainsi des autres. Et de
+ce que en reste pose cy apres ung nombre divise et punctoye ainsi que devant est dict. Tout lequel nombre monte $745324$   tryllions $804300$   billions $700023$   millions $654321$.  
+
+Exemple. $745324804300700023654321$   
+Addition.
+
+\marginnote{8r°} 
+
+Adiouster est plusieurs nombres mectre en ung lequel tout seul vaille autant commes tous les
+nombres adioustez et ce les nombres par ung nombre pour laquelle choses savoir faire il conviend savoir que en
+adiousteant se trouvent deux nombres c'est assavoir nombre simple et compose. Nombre simple est
+tout nombre qui se peut escripre ou poser par l'une des dix figures devant dictes comme $6$   ou $0$.  
+Nombre compose est celuy qui par deux ou plusieurs figures se peut escripre comme $10$   ou $12$   ou 1000// Pour savoir
+adiouster il conviend pour le premier coucher les nombres que l'on veult adiouster
+l'ung conste l'autre. Et en telle maniere que les figures simples soient a
+l'endroit l'une de l'autre. Et les diz a
+l'endroit des dizaines et pareillement des autres et tousiours doit l'on
+commencer de adiouster a la part dextre en continuant a senestre et puis faire ainsi que s'ensuit.
+Si par l'addicion de toutes les figures de ung ordre il en viend nombre simple on le doit poser au
+dessoubz et l'ondroit dicelles figures adioustees et s'il en viend nombre
+compose l'on doit coucher la figure simple is nombre compose l'on doit
+coucher la figure simple du  nombre compose. Et partir la 10eme ou les 10nes pour les adiouster avec les figures
+prochaines ensuyvants se aucunes en y a et se milles figures y a l'on doit poser 9 que
+l'on garde en maniere que ce soit le derrenier ordre du nombre adiouste. 
+
+Exemple.
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.76100004cm}m{0.76100004cm}m{0.763cm}m{0.76100004cm}m{0.76100004cm}m{0.698cm}} $1$   & $7$   & $0$   & $8$   & $3$   &
+0\\
+~
+ & $6$   & $0$   & $7$   & $3$   &
+0\\
+~
+ & $3$   & $0$   & $5$   & $2$   &
+0\\\hline
+1\footnotemark{} & $6$   & $2$   & $0$   & $8$   &
+0\\\hline
+\end{supertabular}
+\end{center}
+
+
+
+
+Pour plus grand declaration des choses devant dictes est pose icy ung exemple contenant toute la maniere de adiouster.
+Du quel exemple le premiere ordre sont troys $0$.   Et pourtant est pose $0$   au dessoubz et a l'endroit
+dicelluy ordre. Item qui adiouste les figures du second ordre qui sont $332$   \marginnote{8v°} montent $8$   qui sont posez au
+dessoubz du second ordre. Item qui adiouste les figures du tiers ordre qui sont $875$   montent $20$   dont $6$   est couche au
+dessoubz et reste les $2$   qu'il fault adiouster avec les troys $0$   du quart ordre montent $2$   qui sont
+posez au dessoubz. Item qui adiouste les figures du quint ordre qui sont $763$   montent $16$   qui sont posez au dessoubz
+ainsi et apr la maniere dicte es notables cy devant toute laquelle addition des troiys nombres monte $162080$   ainsi
+qu'il appert en l'exemple. Et a celle fin que plus facilement
+l'on puisse comprandre la maniere de adiouster dont cy apres posez plusieurs autres exemples sans
+declaracion diceulx. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.754cm}m{1.015cm}m{0.472cm}m{1.268cm}m{0.087999985cm}m{0.38600004cm}m{0.8cm}}
+~
+ & $707$   &
+~
+ & $52$   &
+~
+ &
+~
+ &
+87\\
+~
+ & $28$   &
+~
+ & $307$   &
+~
+ &
+~
+ &
+79\\
+~
+ & $15$   &
+~
+ & $9$   &
+~
+ &
+~
+ &
+68\\
+~
+ & $450$   &
+~
+ & $44$   &
+~
+ &
+~
+ &
+56\\
+~
+ & $200$   &
+~
+ & $710$   &
+~
+ &
+~
+ &
+40\\\hhline{--~~~~~}
+\multicolumn{1}{|m{0.754cm}}{s.} &
+\multicolumn{1}{m{1.015cm}|}{1400} &
+~
+ & $999$   &
+~
+ &
+~
+ &
+27\\\hhline{----~--}
+~
+ &
+\multicolumn{1}{m{1.015cm}|}{~
+} &
+s. &
+\multicolumn{1}{m{1.268cm}|}{2121} &
+\multicolumn{1}{m{0.087999985cm}|}{~
+} &
+s. &
+\multicolumn{1}{m{0.8cm}|}{357}\\\hhline{~~--~--}
+\end{supertabular}
+\end{center}
+
+
+
+Sustracion.
+
+Sustraire est lever ung nombre mineur ou egal d'un autre nombre pour
+savoir si l'ung est plus grand que l'autre et de combien. Et se commence
+tousiours a la part dextre. Pour laquelle chose savoir mettre en praticque est de noter que a sustraire ne sont requis
+que deux nombres c'est assavoir le nombre que l'on veult sustraire et le
+nombre du quel l'on veult sustraire, lesquelz deux nombres se doivent escrire et poser
+l'ung couste l'autre, les figures a l'endroit chascune
+de sa semblable. Et puis du maieur l'on doit sustraire \marginnote{9r°} le mineur ou son egal ainsi et
+par la maniere s'ensuit. Si de une figure en quelque ordre quelle soit et quelle quelle soit
+l'on en lieve une autre figure mineur, l'on doit poser la reste au dessoubz
+et a l'endroit dicelle figure et si l'on en lieve sa semblable ou son egale
+l'on doit l'on doit poser $0$.   Et si l'on en veult lever
+une figure maieur il conviend emprunter une 10ne et icelle 10ne adiouster avec la figure mineur et dicelle adioustee
+l'on doit faire sa sustraction en couchant la reste au dessoubz de icelle. Et puis
+l'on doit tenir1 en sa pancee  que l'on doit adiouster avec la prochaine
+figure apres ensuivant du nombre mineur si figure y a et puis sustraire ainsi que devant. 
+
+Exemple.
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{2.508cm}m{2.508cm}} $406579$   &
+~
+\\ $38075$   &
+~
+\\ $368504$   &
+reste \\
+\end{supertabular}
+\end{center}
+
+
+
+Qui vouldroit sustraire $3875$   de $406579$   les figures posees l'une a l'endroit de
+l'autre ainsi qu'il appert en cest exemple l'on doit
+ainsi parler qui de $9$   lieve $5$   reste $4$   pour le premier ordre, puis qui de $7$   lieve $7$   reste $0$,   puis qui de $5$   lieve $0$   reste $5$   puis qui de $6$   lieve $8$   reste $8$   et tiend lon $1$   que l'on a emprunte et $3$   sont $4$   qu'il conviend lever de $10$   et reste $6$   et $1$   que l'on tiend pour cause de
+l'emprunt que l'on lieve de $4$   et reste $3$   et par ainsi le nombre sustraict est
+mineurs de l'autre nombre de $368504$   ainsi comme il appert en l'exemple de ce
+que dessus est dict sont posez en apres plusieurs exemples sans declaracion diceulx. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.425cm}m{1.55cm}m{1.301cm}m{1.142cm}m{0.754cm}}
+~
+ & $201008$   & $1000$   & $8100$   &
+549\\
+~
+ & $93509$   & $953$   & $7690$   &
+438\\\hhline{~----}
+\multicolumn{1}{m{1.425cm}|}{Restes} & $107499$   & $0047$   & $0410$   &
+\multicolumn{1}{m{0.754cm}|}{111}\\\hhline{~----}
+\end{supertabular}
+\end{center}
+
+
+
+\marginnote{9v°}
+
+Multiplication.
+
+[M]ultiplier est augmenter ung nombre en son mesme par autant de foiz comme monte le nombre multipliant et se peut
+commencer a la part dextre comme addition et sustraction. Pour laquelle chose savoir faire est de hoters que en
+multiplicacion ne sont requis que deux nombres c'est assavoir le nombre multipliant et le nombre a
+multiplier et se doivent coucher l'ung couste l'autre une chacune figure a
+l'endroit de sa semblable. 
+
+Item plus  est necessaire de savoir tout de cuer la multiplication de une chacune figure en soy mesmes ou par une autre
+laquelle l'on appelle le petit libvret de algorisme qui est tl ainsi que
+s'ensuit : 
+
+(ill.) 
+
+
+
+
+Item plus l'on doit savoir que en multipliant l'on doit observer les regles et
+statutz qui sont requis a adiouste ainsi et par la forme et maniere qui cy apres s'ensuit
+c'est assavoir que se par la multiplicacion de une figure contre ung autre. Il en viend nombre
+simple on le doit poser au dessoubz de la figure multipliant ou autrement en son lieu Ainsi que par les exemples cy
+apres posez peut apparoir et s'il et s'il en vient nombre compose
+l'on doit poser la figure simple dicelluy nombre et garder la 10ne ou les 10nes pour les adiouster
+a la mutliplicacion de la prochaine figure \marginnote{10r°} apres ensuivant se il en y a si non la poser et mectre toute
+seule en son lieu. Pour doncques multiplier ung nombre de plusieurs figures par soy mesmes ou par ung autre nombre de
+une ou plusieurs figures on peut premier commencer aux figures simples tant du nombre multipliant que du nombre de
+multiplier et par la figure simple du nombre multipliant. L'on doit multiplier la figure simple du
+nombre a multiplier et consequemment toutes les autres et ce qui en viend par la multiplicacion de une chacune figure.
+On le doit poser a chacune foiz en obsten(v)ant  ce que devant est dict. Et si le nombre multipliant a plusieurs
+figures l'on en doit faire ny plus ny mems que de la premiere en reculant la multiplicacion de ung
+ordre. Ainsi que cy apres est baille par exemple. 
+
+Exemple.
+
+\begin{flushright}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.673cm}} $6043$   \\
+502\\
+12086\\ $0000$   \ \ \\ $30215$   \\
+3033586\\
+\end{supertabular}
+\end{flushright}
+
+
+
+Pour plus grand declaracion de ce que devant est dict est pose cy ung exemple contenant la maniere de multiplier ou quel
+exemple est multiplier $6043$   par $502$.   Et ainsi comme l'on peut veoir $1$   qui est a premier figure et
+simple du nombre multipliant a multiplie $3$   qui est aussi la premiere figure du nombre a multiplier. Et en sont venuz $6$   qui sont posez au dessoubz. Puis a multiplie $6$   et en sont venuz $12$   qui sont poser apres la $0$.   En apres $0$   a multiplie
+toutes les autres figures du nombre a multiplier et en sont venuz $0000$.   Item $5$   a multiplie $3$   et sont venuz $15$   dont les $5$   sont posez au dessoubz et a l'endroit des $5$   t $1$   que l'on tiend. Puis ont
+multiplie $4$   et en sont venuz $20$   et $1$   que l'on tiend sont $21$   dont le $1$   est pose apres les $5$   et $2$   que l'on tiend. Puis ont multiplie $0$   et \marginnote{10v°} en est venuz $0$   ete $2$   que
+l'on tiend qui sont posez ares. Puis apres ont multiplie $6$   et en sont vneuz $30$   dont $0$   est posez
+apres $2$   et les $3$   apres $0$.   pourtant qu'il ne y a plus riens a multiplier. Ores pour cueillir et
+adiouster iceulx nombres ou multiplications est premier pose $6$   au dessoubz du premier ordre, puis apres $8$   et puis $5$   et
+puis $3$   et encores $3$,   puis $0$   et au derrain $3$.   Toute laquelle multiplicacion monte $3033586$   et ainsi doit on faire de tous
+autres et a celle fin de mieulx entendre la maniere de multiplier sont poses cy apres plusieurs exemples. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.739cm}m{0.36300004cm}m{1.55cm}m{0.301cm}m{1.0489999cm}} $3451$    &
+~
+ & $2006$   &
+~
+ & $145$   \\ $2730$    &
+~
+ & $108$   \ \  &
+~
+ & $20$   \\\hhline{-~-~-} $0000$   &
+~
+ & $16048$    &
+~
+ &
+900\\\hhline{~~~~-} $10353$.  .  &
+~
+ & $0000$.  . &
+~
+ &
+900\\\hhline{~~~~-} $24157$.  ...  &
+~
+ & $2006$.  ... &
+~
+ &
+64\\\hhline{~~-~~} $6902$   ..... \ \ \ \ \ \ \ \ \ \ \ \  &
+~
+ & $216648$   &
+~
+ &
+8\\\hhline{-~~~-} $9421230$    &
+~
+ &
+~
+ &
+~
+ & $512$   \\
+\end{supertabular}
+\end{center}
+
+
+
+Autre maniere de multiplier est et se fait en une figure carree ou quadrangulaire en laquelle maniere.
+L'on ne tiend point de 10nes ainsi que cy devant et plus l'on commencer a
+dextre ou a senestre. Ainsi que l'on peut veoir en ces exemples cy apres ensuyvant. 
+
+
+
+
+Division
+
+\marginnote{11r°} 
+
+Partir est diviser ou mectes ung nombre en plusieurs parties egales. Et se doit commencer tousiours a la part senestre
+et fair a la dextre et doit l'on savoir savoir que en division ne sont requis que deux nombres
+c'est assavoir le nombre partant ou partiteur et le nombre a partir. Item plus doit
+l'on savoir que les regles de sustraction doivent estre icy gardees quant viend a poinct. item
+quant l'on veult partir aucun nombre. L'on le doit oser et au dessoubz
+l'on doit mectre le partiteu une chacune figure a l'endroit de sa semblable
+avec deux lignes entre deux distanes assez l'une de l'autre et ou entre deux
+dicelles soit mis ce que viendra par la division qui se appelle le nombre divise ou le quotiens pourtant que il
+demoustre quanteffoiz le partiteur est contenu ou nombre a partir. Item l'on doit savoir que le
+nombre a partir est aucunesfoiz mineur ou gal ou maieur que le partiteur. Si le nombre que l'on
+veult partir est mineur que le partiteur. L'on doit mectre $0$   entre les deux lignes, puis prandre
+le nombre de dessus pour numerateur et celluy de dessoubz pour denominateur car celluy nombre roupt est la part de ung
+chacun. 
+
+Exemple, qui vouldroit partir $3$   par $4$   l'on doit premierement poser $3$   et $4$   ainsi
+qu'il appert cy apres par exemple et plus l'on doit regarderr quanteffoiz
+4est contenu en $3$.   Et il y est contenu qui est mis entre les deux lignes. Et par ainsi il en viend seulement ¾ pour la
+quarte partie de $3$   
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.42400002cm}|m{0.23900001cm}|m{0.85999995cm}|m{0.087999985cm}|m{0.703cm}|m{0.087999985cm}|m{1.012cm}|m{0.087999985cm}|m{1.0139999cm}} $3$   &
+~
+ & $53$   &
+~
+ & $156$   &
+~
+ & $5307$   &
+~
+ &
+95\\\hline $0$   &
+~
+ & $0$   &
+~
+ & $0$   &
+~
+ & $0$   &
+~
+ &
+0\\\hline $4$   &
+~
+ & $21$   &
+~
+ & $192$   &
+~
+ & $9046$   &
+~
+ &
+1374\\
+\end{supertabular}
+\end{center}
+Si le nombre a partir est egal au partiteur apres ce que les figures sont posees par la maniere dessus dicte \marginnote{11v°} L'on doit regarder quanteffoiz le partiteur contenu ou nombre a partir et jamais
+n'y est contenu que une foiz pouce qu'ilz sont egalz et pourtant doit
+l'on poser $1$   entre les deux lignes ainsi que cy apres peut apparoir. Exemple qui vouldroit partir $7$   par $7$   les nombres posez ainsi que devant est dit. L'on doit dire ainsi en $7$   qui est le nombre a
+partir quanteffoiz $7$   qui est le partiteur une foiz que l'on doit poser entre les deux lignes puis
+dire une foiz $7$   qui est le partiteur sont $7$   levez de $7$   qui est le nombre a partir et ne reste riens. Par quoy
+l'on doit rayer et de  les $7$   ainsi qu'il appert cy apres par exemple. 
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.42400002cm}|m{0.087999985cm}|m{0.513cm}|m{0.087999985cm}|m{0.763cm}|m{0.087999985cm}|m{1.513cm}} $7$   &
+~
+ & $12$   &
+~
+ & $304$   &
+~
+ &
+509468\\\hline $1$   &
+~
+ & $1$   &
+~
+ & $1$   &
+~
+ &
+1\\\hline $7$   &
+~
+ & $12$   &
+~
+ & $304$   &
+~
+ &
+509468\\
+\end{supertabular}
+\end{center}
+Et si le nombre a partir est plus grand que le nombre partant laquelle chose peut advenir en deux manieres
+l'une quant les ou aucune figures du nombre a partyr est ou sont de maieur valeur que celle ou
+celles du nombre partiteur, l'autre si est quant ou nombre a partir y a plus de figures que ou
+partiteur. Quant les figures du nombre a partir sont de plus grand valeur que le partiteur. Apres ce que les deux
+nombres sont posez par la maniere devant dicte l'on doit regarder quanteffoiz le partiteur est
+contenu au nombre a partir. Et jamais ne se peut trouver memes de $1$   ny plius hault de $9$   foiz. Exemple qui vouldroit
+partir $0$   par $4$   les deux nombres posez ainsi qu'il appartiend l'on doit viser
+quanteffoiz $4$   est contenu en $9$   entierement. Il n'y est contenu que $2$   que l'on
+doit poser entre les deux lignes \marginnote{12r°} puis apres l'on doit dire $2$   foiz $4$   sont $8$   levez de $9$   et reste $1$   que l'on doit poser sus $9$   en les rayant. Et ainsi viend pour quotiens $2$   et $\frac{1}{4}$ ainsi
+qu'il appert cy apres pas exemple. 
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.42400002cm}|m{0.087999985cm}|m{0.513cm}|m{0.087999985cm}|m{0.763cm}|m{0.087999985cm}|m{1.513cm}}
+~
+ &
+~
+ &
+~
+ &
+~
+ & $12$   &
+~
+ &
+~
+\\\hline
+~
+ &
+~
+ & $1$   &
+~
+ & $233$   &
+~
+ &
+32\\\hline $9$   &
+~
+ & $27$   &
+~
+ & $875$   &
+~
+ &
+87025\\\hline $2$   &
+~
+ & $2$   &
+~
+ & $3$   &
+~
+ &
+5\\\hline $4$   &
+~
+ & $13$   &
+~
+ & $283$   &
+~
+ &
+17405\\
+\end{supertabular}
+\end{center}
+Et se a nombre a partir y a plus figures que ou partiteur. Comme qui vouldroit partir $360$   par $36$.   Les nombres couchez
+par la maniere devant dicte l'on doit viser quantesfoiz $3$   est en $3$   et quantesfoiz $6$   est en $6$   ilz y
+sont une foiz que l'on doit poser entre les deux lignes et a l'endroit de la
+derraine figure du nombre a partir. puis dire $1$   foiz $3$   est $3$,   levez de $3$   reste riens puis $1$   foiz $6$   est $6$   levez de $6$   et
+ne reste riens. Et doit l'on rayer les $3$   et les $6$   du nombre a partir puis apres
+l'on doit viser en $6$   qui est raye quantesfoiz $3$   il n'y est point et pourtant
+doit l'on mectre $0$   au dessoubz du $6$   et ainsi l'on trouvera $10$   pour quotiens. 
+
+
+
+
+
+ Item qui vouldroit partir $705$   par $19$   les nombres couches ainsi qu'il appartiend
+l'on doit regarder en $7$   quanteffoiz $1$   qui est la premiere du nombre a partir et en $0$   quantesfoiz $9$   ou en $70$   quantesfoiz $19$   et il ne y est que $3$   que l'on doit poser entre les deux lignes et 
+iendroit de  puis dire $3$   foiz $1$   done $3$   levez de $7$   reste $4$   que l'on doit mectre dessus puis $3$   foiz $9$   sont $27$   levez de $40$   et reste $13$.   En apres l'on doit regarder en $13$   quantesfoiz $1$   il y est $7$   foiz toutes choses considerees et non plus. Et pourtant conviend mectre $7$   au dessoubz de $0$   puis
+l'on doit dire $7$   foiz $1$   sont $7$   levez de $13$   reste $6$   puis $7$   foiz \marginnote{12v°} $9$   sont $63$   levez de $65$   reste $2$   et ainsi le quotien monte $37$   et $\frac{2}{9}$. 
+
+
+
+
+
+ Item plus qui vouldroit partir $860400$   par $30$   les nombres posez ainsi qu'il appartiend,
+l'on doit viser en $8$   quantesfoiz $3$   il y est $2$   que l'on doit poser au dessoubz
+de $8$   puis dire $2$   foiz $3$   sont $6$   levez de $8$   reste $2$   sus les $8$   puis en $26$   quantesfoiz $3$,   $8$   foiz que
+l'on doit poser au dessoubz de $6$   puis dire $8$   foiz $3$   sont $24$   levez de $26$   reste $2$   sus $6$,   puis apres
+en $20$   quantesfoiz $3$   il y est $6$   que l'on doit poser dessoubz $0$   et dire $6$   foiz $3$   sont $18$   levez de $20$   reste $2$   sus $0$   En apres conviend regarder en $24$   quantesfoiz $3$   il y est $8$   que l'on doit poser
+dessoubz $4$   et dire $8$   foiz $3$   sont $24$   levez de $24$   ne reste rien . Et ainsi viend a la part pour quotiens $2868$.   
+
+
+
+
+
+ Item plus qui vouldroit partir $182728$   pour $364$   les nombres posez ainsi qu'il appartiend
+l'on doit regarder en $1$   quantesfoiz $3$   il y est $0$   que l'on doit mectre au
+dessoubz de $1$   puis regarder en $18$   quantesfoiz $3$   ou en $1827$   quantesfoiz $364$.   Tout considere il ne y est que $5$   foiz que
+l'on doit poser dessoubz $8$   et dire $5$   foiz $3$   sont $15$   levez de $18$   reste $5$   dessus $8$   puis $5$   foiz $6$   sont $30$   levez de $32$   reste $2$   puis $5$   foiz $4$   sont $20$   levez de $27$   reste $7$.   En apres l'on doit viser en $2$   qui est raye quantesfoiz $3$   il y est $0$   que l'on doit mectre au dessoubz de $2$   et derechief
+conviend regarder en $4$   quantesfoiz $2$   il y est $2$   que l'on doit poser au dessoubz de $7$   et dire $2$   foiz $3$   sont $6$   levez de $7$   reste $1$   dessus $7$   puis $2$   foiz $6$   sont $12$   levez de $12$   reste $0$   puis puis $2$   foiz $4$   sont $8$   levez de $8$   et reste riens et aussi viend a la part $502$   comme l'on peut veoir ­\marginnote{13r°} plusa(m)plam es
+exemples cy apres posez 
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.395cm}|m{0.087999985cm}|m{1.513cm}|m{0.42400002cm}|m{0.768cm}|m{0.087999985cm}|m{0.72400004cm}} $3$   &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\\hline $182728$   &
+~
+ & $860400$   &
+~
+ & $704$   &
+~
+ &
+360\\\hline $502$    &
+~
+ & $2868$   &
+~
+ & $37$   &
+~
+ &
+10\\\hline $364$   &
+~
+ & $300$   &
+~
+ & $19$   \ \ \ \  &
+~
+ &
+36\\
+\end{supertabular}
+\end{center}
+
+
+
+Et note si en faisque aucune division il reste aucun nombre il doit estre mendre que le parte ou autrement ce seroit
+signe de faulce. Item plus l'on doit savoir que le quotiens ou le nombre den tat ne se doit poser
+si non jusques a l'endroit de la derraine figure du partiteur ou autrement il en sortroit erreur.
+Ainsi que par tous les exemples posez cy devant et apres peut apparoir encore pour plus amplement entendre autres
+partements par maniere de exemples. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.6129999cm}m{0.55cm}m{1.5519999cm}} $27$   $249$   $3858$   $6380$   $1148931$   $7500409$   $08532$   &
+~
+ &
+~
+
+~
+
+~
+
+~
+
+~ $6480000$   
+20000\\\hhline{-~-} $879$   &
+~
+ &
+324\\
+\end{supertabular}
+\end{center}
+Et note que qui vouldroit partir quelque nombre que ce soit par $10$,   l'on le peult     partir en
+ostant seulement la premiere figure et toutes les autres prandre pour quotiens et si la figure ostee est significatisve
+l'on la doit mectre sus $10$   pour nombre roupt representant aucune partie de $1$   entier ainsi que
+l'on peut veoir par ces exemples. 
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.675cm}m{0.55cm}m{0.087999985cm}m{0.763cm}m{0.29900002cm}m{0.087999985cm}m{0.763cm}m{0.29900002cm}}
+\multicolumn{1}{m{0.675cm}|}{32} & $7$   &
+~
+ &
+\multicolumn{1}{m{0.763cm}|}{540} & $3$   &
+~
+ &
+\multicolumn{1}{m{0.763cm}|}{835} &
+0\\\hhline{--~--~~~}
+\multicolumn{2}{m{1.425cm}}{10} &
+~
+ &
+\multicolumn{2}{m{1.262cm}}{10} &
+~
+ &
+~
+ &
+~
+\\
+\end{supertabular}
+\end{center}
+\marginnote{13v°}
+
+Autre maniere de partir si est que l'on appelle par galee laquelle maniere est semblable a la
+premiere devant dicte. Excepte que l'on pose le partiteur a l'endroit des
+figures a partir. Et puis a chacune figure du quotiens l'on remue son partiteur en anteriorant les
+figures que l'on veult partir. Ainsi que plus amplement l'on peut veoir en
+l'exemple cy apres pose. 
+
+
+
+
+
+
+
+
+
+
+(pas d'exemple ! ) 
+
+
+
+
+S'ensuit la maniere de prouver les quatre chapitres precedants c'est assavoir
+addition, sustraction, multiplication et division. 
+
+Quant l'on a fait une addition et l'on veult prouver si elle est vraye u
+faulce il en est une telle regle. 
+
+La prouve de addicion.
+
+Si de la somme totale de la addicion l'on en sustrait les nombres adioustez il restera $0$   
+
+La prouve de sustraction.
+
+Si le nombre sustrait et le nombre restant sont adiouster ensemble ilz monteront autant que le nombre du quel est faicte
+la sustraction. Ou autrement si les \marginnote{14r°} deux nombres sont adioustez ensemble ilz seront egalz au plus grand.
+
+La prouve de multiplication.
+
+Si le nombre venu de la multiplicacion est party ou divise par le nombre multipliant, l'on trouvera
+pour quotiens le nombre multiplie. Et s'il est divise par le nombre multiplie
+l'on trouvera le nombre multipliant. 
+
+La prouve de division.
+
+Si le quotiens est multiplie par le partiteur et a la multiplicacion l'on adiouste le nombre si
+reste y a l'on trouvera le nombre party. 
+
+
+
+
+Et par ainsi addicion est prouvee par sustraction et sustraction par addition et pareillement multiplicacion est prouve
+par division et division par multiplication ainsi comme ung contraire prouve l'autre. 
+
+
+
+
+
+
+
+Plusieurs autres manieres de prouver sont comme la prouve de $9$,   $8$,   $7$   et ainsi des autres figures jusques a $2$   par
+lesquelles facilement l'on fait sa prove desquelles manieres n est cy faict mencion que de celle
+de $9$   pource que c'est la plus aysee et la plus tost faicte. 
+
+La prouve de $9$   ne est autre chose que viser si le nombre du quel l'on prand la prouve se peeut
+entierement partir par $9$   ou non. Si entierement l'on doit mectre $0$   pour prouve. Si non
+l'on doit mectre le nombre restant comme seroit $8$   et au dessouz jusque a $1$.   
+
+Ores pour savoir facilement si ung nombre quel qu'il soit se peut entierement partir par $9$   ou non
+l'on doit adiouster toutes les figures dicelluy nombre comme si elles estoient simplment posee
+prises pour leur valeur. Et si par la addicion dicelles il en viend nombre de plusieurs figures
+l'on les doit derechief \marginnote{14v°} adiouster comme devant tant que l'on
+viegne a une figure significatisve. et se icelle figure est $9$   l'on peut mectre $9$   ou $0$   pour
+prrouvee dicelluy nombre et si autre figure y a comme $8$   et au dessoubz l'on la doit prandre pour
+prouve. Exemple 
+
+Qui vouldroit prandre la prouve de $9$   de $50348$   l'on doit adiouster $5348$   et montent $20$   dont la prouve
+est $2$   et ainsi peut l'on faire de tout autre nombre pour grand qu'il soit. 
+
+La prouve de addition par $9$.  
+
+Si la prouve de la somme totale est egale a la prouve des nombres adioustez l'addicion est bien
+faicte. Ainsi que par l'exemple pose en marge l'on peut veoir. 
+
+La prouve de sustraction.
+
+Si la prouve du nombre restant et du nombre sustraict est egale a la prouve du nombre duquel est faicte la sustraction
+la raison est bonne. 
+
+La prouve de multiplicacion par $9$.  
+
+Si la prouve du nombre multiplie et la prouve du nombre multipliant multipliees l'une par
+l'autre est gale a la prouve du nombre venu de la multiplicacion, la raison est bonne. 
+
+La prouve de division par $9$.  
+
+Si la prouve du partiteur et la prouve du quotiens multipliees l'une par
+l'autre et adioustees a la reste du partir se reste y a est egale au nombre party la rayson est
+bien faicte. 
+
+Note que de la prouve de $9$   en peut sortir erreur en deux manieres, la premiere est par remotion ou addition de une ou
+plusieurs 9nes la seconde si est ou $0$   par mutation de une figure ou de partie dicelle \marginnote{15r°} de ung ordre en
+autre. Exemple de la premiere comme qui seroit de $953$,   $9539$   ou $53$.   Tousiours la prouve de $9$   seroit un et aussi qui
+seroit de $340$,   $3400$   ou $34$   tousiours la prouve seroit $7$   et touteffoiz le nombre seroit maieur ou mineur. 
+
+Exemple de la seconde qui seroit de $243$,   $342$   ou $1143$   tousiours la prouve seroit $0$.   
+
+Les prouves precedants qui se font par leur contraire sont infaillibles et certaines car si aucune erreur ou mescompte y
+a elles le demonstreront et ainsi se termine le nombre entier et la premiere part de ce livre. 
+
+
+
+
+
+
+
+La seconde partie de ce livre qui traicte du nombre roupt est divisee en huyt parties. 
+
+dont la premiere est reduction
+
+La seconde reduction, abreviation 
+
+La tierce addition 
+
+La quarte sustraction 
+
+La quinte multiplication
+
+La sixiesme division 
+
+La septiesme avaluation de nombre roupt 
+
+La huitiesme est pour savoir faire ung nombre roupt de une partie et partie de parties rouptes. Mais avant que
+l'on puisse proceder plus avant il conviend dire que est nombre roupt 
+
+
+
+
+Nombre roupt est une partie ou plusieurs de $1$   entier et doit t'on savoir
+que en tout nombre roupt a deux nombres le ung dessus et $\text{\textgreek{‘}}$autre dessoubz et une ligne entre deux.
+Ainsi \marginnote{15v°} comme qui vouldroit escrire troys quarts l'on doit ainsi les poser $\frac{3}{4}$ et
+pareillement de tout autre nombre roupt et se appelle le nombre superieur numerateur et le nombre inferieur
+denominateur et doit estre tousiours le numerateur mendre du denominateur car s$\text{\textgreek{‘}}$il estoit egal au
+maieur il reprenteroit $1$   entier ou plus e plus ne seroit nombre roupt 
+
+
+
+
+Reducion.
+
+Reduire est mectre en semblant deux ou plusieurs nombres rouptz dissemblans en les ramenant a ung denominateur comun car
+la difference des nombres rouptz viend de par le denominateur pour laquelle chose savoir faire en est une regle
+generale qui est telle. 
+
+Multiplie tous les denominateurs l'ung par l'autre et tu auras denominateurs
+comun a tous. 
+
+En apres multiplie icelluy denominateur comun par le numerateur du roupt que veulz reduyre et icelle multiplicacion
+partiz par son denominateur particulier et tu auras numerateur nouvel dicelluy roupt. 
+
+Exemple qui vouldroit reduire $\frac{2}{3}$ et $\frac{3}{4}$ il conviend pour le premier multiplier $3$   par $4$   et sont $12$   pour denominateur
+nouvel puis encores conviend multiplier $12$   par $2$   qui est le numerateur de $\frac{2}{3}$ et monte $24$   partiz par $3$   qui est son
+denominateur et trouveras $8$   qui sont $\frac{8}{12}$ pour les $\frac{2}{3}$ et pareillement multiplie $12$   par $3$   et puis partiz par $4$   et
+trouveras $9$   qui sont $\frac{9}{12}$ pour les $\frac{3}{4}$ et se doivent poser ainsi qu'il appert en
+l'exemple pose en marge. 
+
+\ \ \ Autre exemple qui vouldroit reduire $\frac{1}{2}$, $\frac{2}{3}$, $\frac{3}{4}$, $\frac{5}{6}$ il conviend multiplier $2$   par $3$   et ce qui en viend par $4$   et
+encores ce qui en viend par $6$   et l'on trouvera $144$   pour denominateur comun. Ores pour le premier
+multipliee $144$   par $1$   et partiz par $2$   et trouveras $72$   qui sont $\frac{72}{144}$ pour $\frac{1}{2}$ puis [fol. 16r°] apres multiplie $144$   par $2$   et partiz par $3$   et trouveras $\frac{96}{144}$ pour $\frac{2}{3}$ puis multiplie $144$   par $3$   et partis par $4$   et trouveras 108 /144 pour $\frac{3}{4}$ en apres multiplie $144$   par $5$   et partiz par $6$   et trouveras $\frac{120}{144}$ pour $\frac{5}{6}$ Ainsi appert en
+l'exemple cy apres pose. 
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.675cm}m{0.087999985cm}m{0.76100004cm}m{0.087999985cm}m{0.763cm}m{0.087999985cm}m{0.763cm}} $72$   &
+~
+ & $96$   &
+~
+ & $108$   &
+~
+ &
+120\\\hline $\frac{1}{2}$  &
+~
+ & $\frac{2}{9}$ &
+~
+ & $\frac{3}{4}$ &
+~
+ & $\frac{5}{6}$ \\\hline
+\multicolumn{7}{m{4.426cm}}{144}\\
+\end{supertabular}
+\end{center}
+
+
+
+Autre exemple qui demonstre a reduire les rouptz des rouptz qui vouldroit reduire les $\frac{2}{3}$ de $\frac{1}{4}$ de $\frac{4}{5}$ les $\frac{3}{4}$ de $\frac{5}{7}$ et la $\frac{1}{2}$ de la $\frac{1}{2}$ de $\frac{2}{3}$ de $\frac{1}{3}$. Il conviend pour le premier chacune des parties rouptes en faire une en multipliant
+numerateur par numerateur et denominateur par denominateur. Ores pour les $\frac{2}{3}$ de $\frac{1}{4}$ de $\frac{4}{5}$ multiplie $2$   foiz $1$   par $4$   monte $8$   pour numerateur En apres multiplie $3$   foiz par $4$   par $5$   et monte $60$   pour denominateur et ainsi trouveras $\frac{8}{60}$ qui
+abreviez ont $\frac{2}{15}$ qui valent autant comme les $\frac{2}{3}$ de $\frac{1}{4}$ de $\frac{4}{5}$. En apres multiplie $3$   par $5$   et $4$   par $7$   et trouveras $\frac{15}{28}$ pour les $\frac{3}{4}$ de $\frac{5}{7}$. Item multiplie $1$   par $1$   et puis par $2$   et encores par $1$   et secont $2$   pour numerateur et
+multiplie $2$   foiz $2$   par $3$   foiz $3$   et seront $36$   pour denominateur ores metz $2$   sus $36$   en auras $\frac{2}{36}$ qui abreviez sont $\frac{1}{18}$ ores prans maintenant $\frac{2}{15}$, $\frac{15}{28}$ et $\frac{1}{18}$ et les reduiz selon la regle devant dicte. Et trouveras $\frac{1008}{7560}$ pour les $\frac{2}{15}$ et $\frac{4050}{7560}$ pour les $\frac{15}{28}$ et $\frac{420}{7560}$ pour $\frac{1}{18}$ Et ainsi se reduisent les rouptz des rouptz. 
+
+Et note qu'il ne est pas tousiours necessaire de multiplier tous les denominateurs particuliers
+l'ung par l'autre pour trouver le denominateur comun car qui trouveroit ung
+mendre nombre qui \marginnote{16v°} peust entierement estre party par tous les denominateurs particuliers il suffiroit et
+pour investiguer telz nombres conviend mutliplier les denominateurs l'ung par
+l'autre c'est assavoir ceulx desquelz leur multiplicacion contiendra
+entierement les autres on pourra entierement estre divisee par iceulx. 
+
+
+
+
+Exemple.
+
+Qui vouldroit reduire $\frac{1}{2}$, $\frac{2}{3}$, $\frac{3}{4}$, $\frac{5}{6}$ qui multiplieroit $4$   par $6$   il en viendroit $24$   qui peut entierement estre party
+par $2$,   $3$,   $4$,   $6$   qui sont tous les denominateurs ou qui multiplieroit $2$   par $6$   ou $3$   par $4$   il en viendroit $12$   qui
+pareillement pourroit estre party par lesdictz nombres et pourtant l'on peut prandre $24$   pour
+denominateur comun ou $12$   encores pour le meilleur Et puis faire ainsi que commande la regle et
+l'on trouvera $\frac{6}{12}$ pour $\frac{1}{2}$ et $\frac{8}{12}$ pour $\frac{2}{3}$ et $\frac{9}{12}$ pour $\frac{3}{4}$ et $\frac{10}{12}$ pour $\frac{5}{6}$. 
+
+Et s'il advenoit que ung des denominateurs particuliers peust estre entierement party par tous les
+autres l'on le pourroit prandre pour denominateur comun et en faire ainsi que dessus est ict.
+Exemple qui vouldroit reduire $\frac{1}{2}$, $\frac{1}{3}$, $\frac{3}{4}$, $\frac{5}{6}$, $\frac{3}{8}$, $\frac{7}{12}$, $\frac{19}{24}$ or est il ainsi que $24$   qui est
+l'ung des denominateurs particuliers peut estre entierement party par tous les autres et pource
+l'on le peut prandre et en faire denominateur comun. Et puis apres multiplier et partir ainsi que
+la regle de reduire commande et l'on trouvera $\frac{12}{24}$ pour $\frac{1}{2}$, $\frac{8}{24}$ pour $\frac{1}{3}$, $\frac{18}{24}$ pour $\frac{3}{4}$, $\frac{20}{24}$ pour $\frac{5}{6}$, $\frac{9}{24}$ pour $\frac{3}{8}$, $\frac{14}{24}$ pour $\frac{7}{12}$ et $\frac{19}{24}$. Ainsi que l'on pourra veoir cy apres. 
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.0489999cm}m{0.17599998cm}m{0.8cm}m{0.087999985cm}m{0.763cm}m{0.087999985cm}m{0.76100004cm}m{0.087999985cm}m{0.763cm}m{0.087999985cm}m{1.0139999cm}m{0.23900001cm}m{1.111cm}} $12$   &
+~
+ & $8$   &
+~
+ & $18$   &
+~
+ & $20$   &
+~
+ & $9$   &
+~
+ & $14$   &
+~
+ &
+~
+\\\hhline{-~-~-~-~-~-~~} $\frac{1}{2}$  &
+~
+ & $\frac{1}{3}$ &
+~
+ & $\frac{3}{4}$  &
+~
+ & $\frac{5}{6}$ &
+~
+ & $\frac{3}{8}$ &
+~
+ & $\frac{7}{12}$ &
+~
+ &
+19/24\\
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+\multicolumn{1}{m{0.087999985cm}|}{~
+} &
+\multicolumn{1}{m{0.76100004cm}|}{24} &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\\hhline{~~~~~~-~~~~~~}
+\end{supertabular}
+\end{center}
+
+
+
+\marginnote{17r°}
+
+Regle especiale pour reduire deux nombres rouptz l'on doit multiplier le numerateur de
+l'ung par le denominateur de l'autre pour en faire maieur. Et pareillement
+l'on doit multiplier le numerateur de l'autre par le denominateur de
+l'ung puis apres l'on doit multiplier les deux denominateurs
+l'ung par l'autre pour le faire denominateur comun Ainsi et par la forme et
+maniere qui s'ensuit par exemple. 
+
+Qui vouldroit reduire $\frac{2}{3}$ et $\frac{3}{4}$ il conviend multiplier $2$   qui est numerateur de l'ung par $4$   qui est
+denominateur de l'autre et monte $8$   que l'on doit mectre sus $\frac{2}{3}$ puis conviend
+multiplier $3$   qui est numerateur de l'autre par $3$   qui est denominateur de
+l'ung et monte $9$   que l'on doit mectre sus $\frac{3}{4}$. En apres conviend multiplier $3$   par $4$   qui sont les deux denominateurs et sont $12$   pour denominateur comun. Ainsi que l'on peut
+veoir en l'exemple pose cy apres
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.675cm}m{0.55cm}m{0.8cm}m{0.087999985cm}m{1.012cm}m{1.051cm}m{1.301cm}m{0.087999985cm}m{1.012cm}m{0.55cm}m{0.8cm}} $8$   &
+~
+ & $9$   &
+~
+ & $1937$   &
+~
+ & $918$   &
+~
+ & $9$   &
+~
+ &
+~
+\\ $\frac{2}{3}$  &
+~
+ & $\frac{3}{4}$ &
+~
+ & $\frac{13}{17}$ &
+~
+ & $\frac{54}{149}$ &
+~
+ & $\frac{3}{4}$ &
+~
+ &
+7/12\\
+~
+ & $12$   &
+~
+ &
+~
+ &
+~
+ & $2533$   &
+~
+ &
+~
+ &
+~
+ & $12$   &
+~
+\\
+\end{supertabular}
+\end{center}
+Et se il y avoit nombre entier ou nombre entier et roupt a reduire contre nombre roupt ou contre nombre entier et roupt.
+Il conviend mutliplier les entiers par les denominateurs de leurs rouptz. Et puis en faire ainsi que par plusieurs
+exemples cy apres posez peut apparoir. 
+
+Qui vouldroit reduire $7$   qui est nombre entier contre $\frac{2}{3}$ l'on doit multiplier $7$   par $3$   et monte $21 \frac{1}{3}$ ainsi qu'il appert es exemples en apres posez. 
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.112cm}m{0.55cm}m{0.8cm}m{0.087999985cm}m{1.012cm}m{1.051cm}m{1.301cm}m{0.087999985cm}m{1.012cm}m{0.55cm}m{1.77cm}} $\frac{21}{7}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $\frac{60}{12}$  &
+~
+ &
+~
+ &
+~
+ &
+5205/347\\
+~
+ &
+~
+ & $\frac{2}{3}$ &
+~
+ & $\frac{4}{5}$ &
+~
+ &
+~
+ &
+~
+ & $\frac{8}{15}$ &
+~
+ &
+~
+\\
+~
+ & $3$   &
+~
+ &
+~
+ &
+~
+ & $5$   &
+~
+ &
+~
+ &
+~
+ & $15$   &
+~
+\\
+\end{supertabular}
+\end{center}
+\marginnote{17v°} 
+
+Qui vouldroit reduire $12$   qui est nombre entier contre $8 \frac{1}{2}$ qui est nombre es roupt il conviend multiplier $8$   par $2$   et
+puis y adiouster $1$   et seront $\frac{17}{2}$ puis multiplier $12$   par $2$   et seront $\frac{24}{2}$ ainsi que cy apres peut apparoir 
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.112cm}m{0.269cm}m{1.081cm}m{0.087999985cm}m{1.012cm}m{1.051cm}m{1.301cm}m{0.087999985cm}m{1.012cm}m{0.55cm}} $\frac{24}{12}$ &
+~
+ & $17$   &
+~
+ &
+~
+ & $177$   & $\frac{60}{12}$  &
+~
+ &
+~
+ &
+4466\\
+~
+ &
+~
+ &
+8{\textless}1/2 &
+~
+ &
+~
+ & $15$   & $\frac{17}{11}$ &
+~
+ &
+~
+ &
+406\\
+~
+ & $2$   &
+~
+ &
+~
+ &
+~
+ & $5$   &
+~
+ &
+~
+ & $11$   &
+~
+\\
+\end{supertabular}
+\end{center}
+Qui vouldroit $7 \frac{2}{3}$ qui est nombre entier et roupt contre $\frac{4}{5}$ qui est nombre roupt conviend dire $3$   foiz $7$   sont $21$   et $2$   sont $\frac{23}{3}$ puis apres multiplie $23$   par $5$   et monte $115$   et $3$   par $4$   et seront $12$   et puis $5$   par $3$   et monte $15$   pour
+denominateur comun. Ainsi qu'il appert en cest exemple. 
+
+(ill.) 
+
+
+
+
+Qui vouldroit reduire $7 \frac{1}{2}$ qui est nombre entier et roupt contre $5 \frac{2}{3}$ qui pareillement est nombre entier et roupt
+l'on doit pour le premier multiplier $7$   par $2$   et y adiouster $1$   et seront $\frac{15}{2}$ puis multiplier $5$   par $3$   et y adiouster $2$   et seront $\frac{17}{3}$ or multiplie $15$   par $3$   et monte $45$   et $17$   par $2$   et monte $34$   et $2$   par $3$   et monte $6$.  
+Ainsi qu'il appert cy apres. 
+
+(ill.) 
+
+
+
+
+Abreviacion
+
+
+
+
+Abrevier est poser ou escrire ung nombre roupt par mens de figures ou plus de figures de mendre signification et icelluy
+nombre roupt demourant en sa valeur premiere. Pour laquelle chose savoir \marginnote{18r°} faire si est une regle general
+qui est telle . L'on doit cercher ung nombre le plus grand que l'on puisse
+trouver par lequel entierement l'on puisse partir le numerateur et denominateur et du quotiens du
+numrateur l'on doit faire numerateur et du denominateur faire denominateur. 
+
+Exemple 
+
+Qui vouldroit abrevier $\frac{54}{81}$ le maieur nombre par lequel l'on puisse entierement partir $54$   et $81$   si
+est $27$.   Et pour ce qui divise $54$   par $27$   il en viend $2$   pour numerateur. Puis qui divise $81$   par $27$   il en viend $3$   il
+trouvera $\frac{2}{3}$ et a tant viennent $\frac{54}{81}$ abreviez et valent autant les $\frac{2}{3}$ comme $\frac{54}{81}$. Et ainsi doit
+l'on abrevier les autres nombres rouptz pourveu qu'ilz se puissent abrevier
+car aucuns sont que l'on ne pourroit abrevier comme seroit $\frac{11}{35}$ mais conviend que demourent en
+leur estat. 
+
+
+
+
+Comment l'on doit cercher le nombre qui entierement puisse partir le numerateur et denominateur et
+pous cognoistre les nombres qui ne se peuvent abrevier.
+
+
+
+
+Il conviend partir le denominateur par le numerateur et se il reste apres aucun nombre l'on doit
+partir le partiteur par icelluy nombre restant et ainsi l'on doit continuer le partir
+c'estassavoir du partiteur par le nombre restant jusques a ce que la reste du partir soit $1$   se
+aucun nombre reste et quant l'on trouve $1$   de reste c'est signe que celluy
+nombre ne se peut abrevier. Et se il ne reste riens c'est signe que icelluy nombre se peut
+abrevier. Et le partiteur derrenier est le maieur noimbre par lequel l'on le puisse abrevier.
+Exemple de $\frac{54}{81}$ il conviend partir $81$   par $54$   et reste $27$   puis apres conviend partir $54$   par \marginnote{18v°} $27$   et ne reste
+riens qui est signe que celluy nombre se peut abrevier et $27$   qui est le derrain parteur est le nombre par lequel il se
+doit abrevier. 
+
+
+
+
+Autre maniere de abrevier
+
+
+
+
+L'on doit medier le numerateur et le denominateur s'ilz sont nombres pars et
+de la mediacion du numerateur faire numerateur et de celle du denominateur faire denominateur ou regarder
+s'ilz se pevent abrevier par $3$   ou par $4$   ou par $5$   ou par $6$   ou par ou par $8$   ou par $9$   ou par $10$.   Et
+les doit l'on tant de foyz parttir que plus ilz ne se puissent abrevier. Et note se le numerateur
+et denominateur sont nombres pars que l'on peut cognoistre quant la premiere figure est nombre par
+ou $0$   Adonc l'on doit regarder se l'ung et l'autre se
+pourroient partir par $10$,   ou par $8$,   ou par $6$   ou par $4$,   ou par $2$   conviend que aucune foiz se pevent abrevier par $3$   et
+s'ilz ne sont pars l'on doit regarder se l'ung et
+l'autre se pourroient abrevier par $9$,   ou $7$,   ou par $3$   et de ceste maniere en sont cy posez
+plusieurs exemples. 
+
+\begin{flushleft}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{2.174cm}m{1.301cm}m{1.0489999cm}m{2.55cm}m{0.551cm}|m{0.551cm}m{1.55cm}m{1.301cm}m{2.5479999cm}}
+Abrevier  &
+Par  & $10$   & $\frac{3840}{7680}$ &
+~
+ &
+~
+ &
+Par & $9$   &
+1890/4725\\
+~
+ &
+Par & $8$   & $\frac{384}{768}$ &
+~
+ &
+~
+ &
+Par & $7$   &
+210/525\\
+~
+ &
+Par & $6$   & $\frac{48}{96}$ &
+~
+ &
+~
+ &
+Par & $5$   &
+30/75\\
+~
+ &
+Par & $4$   & $\frac{8}{16}$ &
+~
+ &
+~
+ &
+Par & $3$   &
+6/15\\
+~
+ &
+Par  & $2$   & $\frac{2}{4}$ &
+~
+ &
+~
+ &
+Par  & $9$   &
+1800/2700\\
+~
+ &
+~
+ &
+~
+ & $\frac{1}{2}$ &
+~
+ &
+~
+ &
+Et par  & $100$   &
+2/3\\
+\end{supertabular}
+\end{flushleft}
+
+
+
+\marginnote{19r°} 
+
+Adiouster en nombre roupt en est une regle general qui est telle. L'on doit reduyre les nombres
+rouptz a ung denominateur comun pour les faires semblans. Puis apres tous les numerateurs adioustez ensemble
+l'on doit partir par le denominateur comun. Exemple qui vouldroit adiouster $\frac{2}{3}$ et $\frac{3}{4}$ l'on les doit reduire et ainsi et seront $\frac{8}{12}$ et $\frac{9}{12}$. Or adiouster $9$   et $8$   et monte $17$   partiz par $12$   et trouves $1$   entier et $\frac{5}{12}$. Et tant montent les $\frac{2}{3}$ et $\frac{3}{4}$. Ainsi qu'il appert cy dessoubz 
+
+(ill.) 
+
+Item qui vouldroit adiouster $\frac{1}{2}$, $\frac{2}{3}$, $\frac{3}{4}$, $\frac{5}{6}$ premier conviend reduire et trouveras $\frac{6}{12}$, $\frac{8}{12}$, $\frac{9}{12}$, $\frac{10}{12}$. Or
+adiouste $6$,   $8$,   $9$,   $10$   et monte $33$   partiz par $12$   et trouveras $2$   et $\frac{3}{4}$ et tant montent les rouptz dessusdit . Ainsi
+qu'il appert cy dessoubz. 
+
+\begin{flushleft}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.88500005cm}m{1.731cm}m{2.023cm}m{2.4989998cm}m{2.366cm}m{1.652cm}m{0.7cm}}
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $9$   &
+~
+\\ $6$   & $8$   & $9$   & $10$   &
+~
+ & $33$   &
+~
+\\\hhline{----~-~} $\frac{1}{2}$ & $\frac{2}{3}$ & $\frac{3}{4}$ & $\frac{5}{6}$ &
+~
+ & $21$   &
+3/4\\\hhline{~~~~~-~}
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $12$   &
+~
+\\
+\end{supertabular}
+\end{flushleft}
+
+
+
+Et si il avoit nombres entiers et rouptz a adioust l'on doit premier adiouster les rouptz par la
+maniere devant dicte et si par l'addition des rouptz il en viend entier ou entiers
+l'on les doit adiouste a part apres avec les entiers. Ainsi qu'il appert cy
+apres. 
+
+\begin{flushleft}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.8cm}m{0.8cm}m{0.255cm}m{0.84400004cm}m{0.087999985cm}m{0.763cm}m{0.301cm}m{1.0489999cm}m{0.301cm}m{0.8cm}m{0.29900002cm}m{0.8cm}m{1.301cm}m{0.8cm}m{1.569cm}} $13$   & $\frac{4}{5}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $48$   &
+~
+ &
+~
+ &
+~
+\\ $40$   & $\frac{1}{2}$  &
+~
+ & $48$   &
+~
+ & $30$   &
+~
+ & $40$   &
+~
+ & $45$   &
+~
+ & $30$   &
+~
+ & $43$   &
+~
+\\\hhline{~~~-~-~-~-~~~~~} $26$   & $\frac{2}{3}$ &
+~
+ & $\frac{4}{5}$ &
+~
+ & $\frac{1}{2}$ &
+~
+ & $\frac{2}{3}$ &
+~
+ & $\frac{3}{4}$  &
+~
+ & $40$   &
+~
+ & $2$   &
+~
+\\\hhline{~~~~~~~~~~~~~-~} $14$   & $\frac{3}{4}$  &
+~
+ &
+\multicolumn{7}{m{5.346cm}}{60} &
+~
+ & $45$   &
+~
+ & $2$   &
+~
+\\\hhline{--~~~~~~~~~-~-~} $695$   & $\frac{43}{60}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $163$   &
+~
+ & $60$   &
+~
+\\
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+\end{supertabular}
+\end{flushleft}
+\marginnote{19v°} 
+
+Les rouptz des rouptz se doivent adiouster ainsi et  la forme et maniere quoy l'on fait les rouptz
+et ne ya aucuns difference. Exemple qui vouldroit adiouster les $\frac{2}{3}$ de $\frac{4}{5}$ et les $\frac{3}{4}$ de $\frac{5}{7}$ de $\frac{1}{2}$ pour le premier les $\frac{2}{3}$ de $\frac{4}{5}$ sont $\frac{8}{15}$ et les $\frac{3}{4}$ de $\frac{5}{7}$ de $\frac{1}{2}$ sont $\frac{15}{56}$. Or reduiz $\frac{8}{15}$ et $\frac{15}{56}$ et puis adiouste et trouveras
+\ $\frac{673}{840}$ et tant montent lesdictz rouptz des rouptz.
+
+
+
+
+Sustraction
+
+
+
+
+Pour sustraire en nombre roupt ilz sont deux regles dont la premiere si est telle le nombre
+roupt qui se doit sustraire et le nombre duquel l'on le doit sustraire se doivent reduire se ilz
+ne sont semblans et puis l'on doit lever le mendre du maieur. Et s'il ya
+nombre entier et roupt et il soit necessaire d'emprunter $1$   entier l'on le
+doit compter pour autant que monte le denominateur comun. 
+
+Exemple qui vouldroit lever nombre roupt de nombre roupt, comme $\frac{2}{3}$ de $\frac{3}{4}$ conviend premierement reduire et puis lever $8$   de $9$   et restera $\frac{1}{12}$. 
+
+Item qui vouldroit sustraire nombre roupt de nombre entier comme lever $\frac{2}{5}$ de $12$   il conviend emprunter $1$   entier qui
+vauldra $5$   et de $\frac{5}{5}$ lever $\frac{2}{5}$ restera $\frac{3}{5}$ puis $1$   entier que l'on a emprunter de $12$   qu'il conviend et ainsi resteront $11 \frac{3}{5}$. 
+
+
+
+
+Item qui vouldroit sustraire nombre roupt de nombre entier et roupt, comme $\frac{3}{4}$ de $13 \frac{5}{6}$ conviend premier reduire les
+rouptz et puis sustraire $\frac{9}{12}$ de $\frac{10}{12}$ et reste $13$   et $\frac{1}{12}$ en tout. 
+
+
+
+
+Autre semblable exemple qui vouldroit sustraire $\frac{2}{3}$ de $13 \frac{1}{2}$, il conviend premier reduire et puis sustraire $\frac{4}{6}$ de $\frac{3}{6}$ mais pource que l'on ne peut il conviend enprunter $1$   entier qui vault $\frac{6}{6}$ et qui le adiouste \marginnote{20r°} avec les $\frac{3}{6}$ sont $\frac{9}{6}$. Or de $\frac{9}{6}$ lieve $\frac{4}{6}$ et $\frac{5}{6}$ et puisque  l'on a emprunte
+qu'il conviend lever de $13$   et reste en tout $12$   \ $\frac{5}{6}$. 
+
+
+
+
+Item qui vouldroit lever nombre entier et roupt de nombre entier et roupt comme $9 \frac{1}{4}$ de $20 \frac{3}{4}$ pour le premier lieve $\frac{1}{4}$ de $\frac{3}{4}$ reste $\frac{1}{2}$. Puis lieve $9$   de $20$   et reste $11$   et par ainsi reste en tout $11 \frac{1}{2}$. 
+
+
+
+
+Autre pareil exemple qui vouldroit sustraire $9 \frac{1}{4}$ \ de $20 \frac{1}{7}$ conviend premier reduire les rouptz et puis sustraire $\frac{7}{28}$ de $\frac{4}{28}$ mais pourtant que l'on ne peut il conviend mamlever  $1$   entier qui vault avec les $\frac{4}{28}$, $\frac{32}{28}$. Or de $\frac{32}{28}$ sustray $\frac{7}{28}$ et retera $\frac{25}{28}$ et puis \ que l'on a mamlever adiouste avec $9$   sont $10$   et ainsi reste en tout $10$   \ $\frac{25}{28}$. 
+
+
+
+
+Les rouptz des rouptz se sustrayent ainsi comme l'on fait un roupt de ung autre comme qui vouldroit
+sustraire le $\frac{1}{4}$ de $\frac{1}{5}$, lever de $\frac{1}{3}$ de $\frac{2}{3}$. Pour le premier le $\frac{1}{4}$ de $\frac{1}{5}$ est $\frac{1}{20}$ et le $\frac{1}{3}$ de $\frac{2}{3}$ sont $\frac{2}{9}$. Or
+reduiz $\frac{2}{9}$ et $\frac{1}{20}$ et puis sustray $\frac{9}{180}$ de $\frac{40}{180}$ et reste $\frac{31}{180}$ et ainsi peut l'on sustraire en
+nombre roupt. 
+
+
+
+
+Multiplicacion
+
+
+
+
+Pour multiplier en nombre roupt il en est une regle general qui est telle. Multiplie
+numerateur par numerateur et denominateur par denominateur. 
+
+Et note que nombre entier multiplie par le numerateur d'ung roupt prand la denominacion dicelluy et
+aussi quant il y a nombre entier et roupt ensemble a multiplier l'on peut reduire le nombre entier
+en le multipliant par le denominateur de son roupt et luy \marginnote{20v°} adiouster son numerateur pour de[  
+]multiplie. Ainsi que par plusieurs exemples cy apres poez peut apparoir. 
+
+
+
+
+Exemple qui vouldroit multiplier nombre roupt par nombre roupt comme $\frac{2}{3}$ par $\frac{3}{4}$ conviend dire $2$   foiz $3$   sont $6$   pour
+numerateur puis $4$   foiz $3$   sont $12$   pour denominateur que l'on doit mectre dessoubz $6$   et seront $\frac{6}{12}$ qui abreviez sont $\frac{1}{2}$ et ainsi peut l'on faire des autres. 
+
+
+
+
+Item qui vouldroit multiplier nombre roupt par nombre entier ou nombre entier par nombre roupt comme $\frac{4}{5}$ par $8$   ou $8$   par $\frac{4}{5}$ conviend \ multiplier $8$   par $4$   et monte $72$   qu'il conviend partir par $5$   pour les mectre en
+entiers et en vient $14$   \ $\frac{2}{5}$ \ et tant monte la mutliplication. 
+
+
+
+
+Item qui vouldroit multiplier nombre roupt par nombre entier et roupt ou nombre entier et roupt pas nombre roupt comme $\frac{3}{4}$ par $18 \frac{2}{3}$ ou $18 \frac{2}{3}$ par $\frac{3}{4}$. Il conviend mectre l'entier en son roupt en disant $3$   foiz $18$   sont $54$   et $2$   sont $\frac{56}{3}$ or multiplie $56$   par $3$   \ et $3$   par $4$   monte $\frac{168}{12}$ qui valent entier $14$.   Et tant monte icelle
+multiplicacion. 
+
+
+
+
+Item qui vouldroit multiplier nombre entier et roupt par nombre entier et roupt comme $18$   \ $\frac{2}{3}$ par $13$   et $\frac{1}{2}$. Il
+conviend pour le premier mectre les entiers en leurs rouptz en disant $3$   foiz $18$   sont $54$   et $2$   sont $\frac{56}{3}$ puis $2$   foiz $13$   sont $26$   et $1$   sont $\frac{27}{2}$. Or multiplie numerateur par numerateur et denominateur par denominateur et trouveras $\frac{1512}{6}$ qui
+valent entiers $252$.   Et tant monte ceste multiplicacion. 
+
+
+
+
+Item qui vouldroit multiplier ung nombre roupt \ par plusieurs autres. Comme $\frac{2}{3}$ par $57$   et par $\frac{4}{9}$, multiplie $2$   foiz $5$   par $4$   monte $40$   pour numerateur, puis multiplie $3$   foiz $7$   par $9$   et monte $189$   qu'il conviend mectre
+dessoubz $40$   et seront $\frac{40}{189}$ et tant monte la multiplicacion. 
+
+\marginnote{21r°} 
+
+Et note que par multiplicacion de nombre roupt peut l'on savoir la valeur ou mectre a ung nombre
+les rouptz de ung roupt ou de plusieurs comme qui vouldroit savoir que valent ou quel nombre c'est
+les $\frac{2}{3}$ de $\frac{3}{5}$ de $\frac{1}{4}$ l'on doit multiplies tous les numerateurs l'ung par
+l'autre en disant $2$   foiz $2$   sont $4$   \ et $4$   foiz $1$   sont $4$   pour numerateur. En apres tous les
+denominateurs en disant $3$   foiz $5$   sont $15$   et $4$   foiz $15$   sont $60$   que l'on doit ainsi mectre $\frac{4}{60}$ qui
+abreviez sont $\frac{1}{15}$ Et tant vault $\frac{1}{15}$ comme les $\frac{2}{3}$ de $\frac{2}{5}$ de $\frac{1}{4}$. Et ainsi des autres. 
+
+
+
+
+Comment l'on doit medier tiersoyer et quartoyer tant en nombre entier comme en nombre roupt. 
+
+
+
+
+Et note plus que par multiplicacion de nombre roupt peut l'on medier tout nombre en le multipliant
+par $\frac{1}{2}$ et tierzoyer en le multipliant par $\frac{1}{3}$ ou avoir les $\frac{2}{3}$ de tout nombre en le multipliant par $\frac{2}{3}$ ou quartoyer
+ou quintoyer et ainsi des autres parties en le multipliant par $\frac{1}{4}$ et par $\frac{1}{5}$ ou prandrez les $\frac{3}{4}$ ou les $\frac{4}{5}$ de tout
+nombre en les multipliant par iceulx nombres rouptz. 
+
+Exemple de medier nombre roupt qui vouldroit avoir la $\frac{1}{2}$ de $\frac{3}{4}$, il conviend multiplier $\frac{3}{4}$ par $\frac{1}{2}$ et monte la
+multiplicacion $\frac{3}{8}$ et tant monte la $\frac{1}{2}$ de $\frac{3}{4}$. 
+
+Et si le numerateur du nombre roupt estoit par l'on en peut prandre \ la $\frac{1}{2}$ sans le multiplier
+comme qui vouldroit medier $\frac{4}{5}$ prans la $\frac{1}{2}$ de $4$   qui est $2$   et auras $\frac{2}{5}$ qui est la $\frac{1}{2}$ de $\frac{4}{5}$. 
+
+Exemple de medier en nombre entier qui vouldroit medier $307$   il le conviend multiplier par $\frac{1}{2}$ et
+l'on trouvera $153$   et $\frac{1}{2}$. Et tant monte la $\frac{1}{2}$ dicelluy nombre. Ou autrement partiz $307$   par $2$   et
+trouveras $153 \frac{1}{2}$ comme dessus. 
+
+\marginnote{21v°} 
+
+Exemple de medier nombre entier et roupt. Qui vouldroit medier $307 \frac{5}{8}$ il conviend multiplier $307$   \ $\frac{5}{8}$ par $\frac{1}{2}$ \ et
+l'on trouvera $153$   \ $\frac{13}{16}$. Et tant monte la $\frac{1}{2}$ dicelluy nombre. 
+
+Ou autrement la $\frac{1}{2}$ de $307$   est $153$   et reste $1$   qu'il conviend mectre en centaine et adiouster avec
+les 5[/8] et seront $\frac{13}{8}$ dont la $\frac{1}{2}$ est $\frac{13}{16}$ ainsi que dessus. 
+
+
+
+
+Exemple de tercoyer en nombre roupt qui vouldroit avoir le $\frac{1}{3}$ de $\frac{3}{5}$ il conviend multiplier $\frac{3}{5}$ par $\frac{1}{3}$ et
+l'on trouvera $\frac{3}{15}$ qui est le $\frac{1}{3}$ de \ $\frac{3}{5}$. 
+
+Ou autrement prans le $\frac{1}{3}$ de $3$   qui est $1$   et auras $\frac{1}{5}$ qui est le tiers de $\frac{3}{5}$. 
+
+
+
+
+Qui vouldroit avoir les $\frac{2}{3}$ de $\frac{4}{5}$. L'on doit multiplier $\frac{4}{5}$ par $\frac{2}{3}$ et l'on
+trouvera $\frac{8}{15}$ et tant montent les $\frac{2}{3}$ de $\frac{4}{5}$. 
+
+
+
+
+Item qui vouldroit avoir le tiers de $308$   Il le convient multiplier par $\frac{1}{3}$ et l'on trouvera $102 \frac{2}{3}$. 
+
+Ou autrement partis $308$   par $3$   et trouveras comme dessus . 
+
+
+
+
+Et qui vouldroit avoir les \ $\frac{2}{3}$ dicelluy nombre l'on le doit multiplier par $\frac{2}{3}$ et
+l'on trouvera $205$   \ $\frac{1}{3}$. 
+
+
+
+
+Item qui vouldroit avoir le $\frac{1}{3}$ de $26$   \ $\frac{1}{4}$. Il conviend multiplier $26$   \ $\frac{1}{4}$ par $\frac{1}{3}$ et l'on
+trouvera $8$   \ $\frac{3}{4}$. 
+
+Ou autrement le tiers de $26$   c'est $8$   et restent $2$   que l'on doit mectre en $\frac{1}{4}$ et adiouster avec $1$   et seront $\frac{9}{4}$ dont le tiers sont $\frac{9}{12}$ ou $\frac{3}{4}$ ainsi comme dessus. Et ainsi peut
+l'on quatoyer ou quintoyer et faire les autres raisons semblables. 
+
+
+
+
+Division
+
+
+
+
+Pour partir en nombre roupt est une regle general qui est telle. Reduiz le partiteur et le nombre qui se doit partir et
+puis partiz numerateur par numerateur.
+
+\marginnote{22r°}
+
+
+
+
+Exemple qui vouldroit partir nombre roupt par nombre roupt. Trouver $\frac{3}{4}$ par $\frac{2}{3}$ premierement l'on
+doit reduire et l'on trouvera $\frac{9}{12}$ \ et $\frac{8}{12}$ et puis conviend partir $9$   par $8$   et en viendra $1$   et $\frac{1}{8}$. Et qui vouldroit partir $\frac{2}{3}$ par $\frac{3}{4}$ il conviendroit partir $8$   par $9$   et en viendroit $\frac{8}{9}$. 
+
+
+
+
+Et qui vouldroit partir nombre roupt par nombre entier ou nombre entier par nombre roupt, comme $\frac{3}{4}$ par $13$.   Reduiz $13$   en
+les multipliant par $4$   et seront $\frac{52}{4}$. Or partiz $3$   par $52$   et trouveras $\frac{3}{52}$. Et qui vouldroit partir $13$   par $\frac{3}{4}$ divise $52$   par $3$   il trouvera $17 \frac{1}{3}$. 
+
+
+
+
+Item qui vouldroit partir nombre roupt par nombre entier et roupt ou nombre entier et roupt par nombre roupt, comme $\frac{3}{4}$ par $13 \frac{2}{3}$ reduiz et trouveras $\frac{9}{12}$ et $\frac{164}{12}$ or partiz $9$   par $164$   et trouveras $\frac{9}{164}$ et qui vouldroit partir $13$   \ $\frac{2}{3}$ par $\frac{3}{4}$ il conviendroit partir $164$   par $9$   et l'on trouvera $18$   \ $\frac{2}{9}$. 
+
+
+
+
+Item qui vouldroit partir nombre roupt par nombre entier et roupt ou nombre entier et roupt par nombre roupt, comme $\frac{3}{4}$ par $13 \frac{2}{3}$. 
+
+
+
+
+Item qui vouldroit partir nombre entier et roupt par nombre entier et roupt comme $7$   \ $\frac{3}{4}$ par $13 \frac{2}{3}$. Reduiz et
+trouveras $\frac{31}{12}$ et $\frac{164}{12}$ or partiz $93$   par $164$   et trouveras $\frac{93}{164}$. Et qui vouldroit partiz $13 \frac{2}{3}$ par $7$   \ $\frac{3}{4}$ conviendroit partir $164$   par $93$   et l'on trouveroit $1$   \ $\frac{71}{93}$. 
+
+
+
+
+Les rouptz des rouptz se doivent partir ainsi que les nombres rouptz par les nombres rouptz et ne y a aucune difference
+fors que de plusieurs nombres l'on en fait deux c'est assavoir le partiteur
+et le nombre qui se doit partir. 
+
+
+
+
+Exemple qui vouldroit partir les $\frac{3}{4}$ de $\frac{3}{5}$ de $\frac{1}{2}$ \marginnote{22v°} par les $\frac{2}{3}$ de $\frac{4}{7}$. Pour le premier les $\frac{3}{4}$ de $\frac{3}{5}$ de $\frac{1}{2}$ sont $4$   \ $\frac{9}{6}$  et les $\frac{2}{3}$ de $\frac{4}{7}$ sont $\frac{8}{21}$. Or reduiz $\frac{9}{40}$ et $\frac{8}{21}$ et puis partiz $189$   par $320$.   Et trouveras $\frac{189}{320}$ et qui vouldroit faire au contraire conviendroit partir $320$   par $189$   et l'on trouveroit $1 \frac{131}{189}$.
+Et ainsi des autres. 
+
+
+
+
+Comment l'on doit doubler, tripler et quadrupler tant en nombre entier comme en nombre roupt.
+
+
+
+
+Et note que ainsi que par multiplication de nombre roupt l'on peut medier, tiercoyer et quartoyer
+tout nombre. Pareillement par division de nombre roupt peut l'on doubler tout nombre en le partant
+par $\frac{1}{2}$ et tripler tout nombre en le partant par $\frac{1}{3}$ et quadrupler en le partant par $\frac{1}{4}$. Et ainsi des autres parties. 
+
+Exemple de doubler en nombre roupt qui vouldroit doubler $\frac{3}{8}$. Il conviend partir $\frac{3}{8}$ par $\frac{1}{2}$ et
+l'on trouvera $\frac{3}{4}$. Et si le denominateur du roupt estoit par, l'on le peut
+medier comme de $\frac{3}{8}$ qui medie $8$   il trouve $\frac{3}{4}$. Ou autrement multiplie le nombre que veulz doubler par $2$   et sera faict
+comme qui multiplie $\frac{3}{8}$ par $2$   il trouve $\frac{6}{8}$ qui abreviez sont $\frac{3}{4}$. Ainsi que devant. 
+
+
+
+
+Exemple de double en nombre entier qui vouldroit doubler $107$   il conviend partir $107$   par $\frac{1}{2}$ et l'on
+trouvera $214$   ou autrement multiplie $107$   par $2$   et l'on trouvera comme dessus. 
+
+
+
+
+Exemple de doubler en nombre entier et roupt qui vouldroit doubler $12 \frac{4}{5}$ il les conviend partire par $\frac{1}{2}$ ou les
+multiplier par $2$   et l'on trouvera $25 \frac{3}{5}$. 
+
+
+
+
+\marginnote{23r°} 
+
+
+
+
+Exemple de tripler en nombre roupt. Qui vouldroit tripler $\frac{4}{5}$, l$\text{\textgreek{‘}}$on les doit partir par $\frac{1}{3}$ ou
+multiplier par $3$   et l'on trouvera $2 \frac{3}{5}$. 
+
+Pareillement, qui vouldroit tripler $14$   l'on les doit partir par $\frac{1}{3}$ ou multiplie par $3$   et
+l'on trouveras $52$.   Et ainsi qui vouldroit tripler $14 \frac{1}{6}$, l'on les doit
+partir par $\frac{1}{3}$, ou multiplier par $3$   et l'on trouvera $52$   \ $\frac{1}{2}$. 
+
+Et ainsi peut l'on quadrupler, quintupler et faire les autres raisons semblables. 
+
+
+
+
+Avaluacion de nombre rout. 
+
+
+
+
+Le stile et la maniere de savoir la valeur de tout nombre roupt si est telle. 
+
+Multiplie le numerateur par la valeur de ce dont il est roupt et puis partiz par le denominateur. 
+
+Exemple en faict de monnoyes, qui vouldroit savoir combien valent $\frac{2}{3}$ de livre de $20$   solz la livre et le solz de $12$   deniers. L'on doit multiplier $2$   qui est le numerateur par $20$   soltz, qui est la valeur
+d'une livre, et monte $40$   que l'on doit partir par $3$   qui est le denominateur
+et l'on trouve $13$   soltz [et 1/3]. Multiplie $1$   par $12$   deniers qui est la valeur de $1$   solt multiplie $1$   par $12$   deniers partiz par $3$   et trouveras $4$   deniers. Et ainsi $\frac{2}{3}$ de livres valent $13$   soltz $4$   deniers. 
+
+
+
+
+Item plus, qui \ vouldroit savoir que valent $\frac{4}{7}$ d'escu de $22$   gros $\frac{2}{3}$ et le gros de $15$   deniers,
+conviend multiplie $\frac{4}{7}$ \ par $22$   \ $\frac{2}{3}$ et l'on trouve \marginnote{23v°} \ $12$   gros et $\frac{20}{21}$. En apres
+pour savoir que valent $\frac{20}{21}$ de gros, conviend multiplier $20$   par $16$   deniers et puis partir par $2$   et
+l'on trouvera $14$   deniers et $\frac{2}{7}$ de denier et \ ainsi les $\frac{4}{7}$ d'escu valent $12$   gros $14$   deniers $\frac{2}{7}$ de denier. 
+
+
+
+
+Item plus, qui vouldra savoir que valent $\frac{5}{13}$ de florin de $18$   gros $\frac{2}{3}$ le florin et le gros de $16$   deniers $\frac{4}{5}$. Il
+conviend multiplier $\frac{5}{13}$ par $18 \frac{2}{3}$. Et l'on trouvera $7$   gros et $\frac{7}{39}$ de gros. il les conviend
+multiplier par $16$   deniers $\frac{4}{5}$ qui est la valeur d'ung gros et l'on trouvera $3$   deniers et $\frac{1}{65}$ de denier. Et ainsi les $\frac{5}{13}$ de florin valent $7$   gros $3$   deniers et $\frac{1}{65}$ de denier. 
+
+
+
+
+
+ Exemple en faict de mesures qui vouldroit savoir que valent $\frac{4}{5}$ de une aulne de $4$   quartiers et le quartier de $12$   poulces. Il conviend multiplier $4$   qui est le multiplicateur par $4$   quartiers qui est la longueur de une aulne. Et puis
+partir par $5$   qui est le denominateur et trouveras $\frac{3}{4}$ et $\frac{1}{5}$ de quartier. En apres pour savoir que vault $\frac{1}{5}$ de
+quartier multiplie $1$   qui est numerateur par $12$   \ poulces qui est le long d'ung quartier. Et puis
+partiz par $5$   et trouveras $2$   poulces et $\frac{2}{5}$ de poulce. Et ainsi les $\frac{4}{5}$ d'aulne montent $3$   quartiers $2$   poulces et $\frac{2}{5}$. 
+
+
+
+
+
+ Item plus, qui vouldroit savoir la longueur de $\frac{11}{14}$ de aulnes de $3$   tiers et le tiers de $16$   poulces conviend
+multiplier $11$   par $3$   et partir par $14$   et l'on trouvera $2$   et $\frac{5}{14}$ de tiers. En oultre multiplie $5$   par $16$   et puis partiz par $14$   et trouveras $5$   poulces et $\frac{5}{7}$ et ainsi les $\frac{11}{14}$ d'aulnes sont $2$   tiers $5$   poulces et $\frac{5}{7}$. 
+
+
+
+
+
+ Exemple en faict de poys qui vouldroit savoir que poysent $\frac{7}{9}$ de livre de $16$   onces et l'once
+de $24$   deniers, il conviend multiplier $7$   par $16$   et partir \marginnote{24r°} par $9$   et l'on trouvera $12$   onces et $\frac{4}{9}$ d'once en apres multiplie $4$   par $24$   et partiz par $9$   Et trouveras $10$   deniers $\frac{2}{3}$ et
+ainsi $\frac{7}{9}$ de livre poysent $12$   onces $10$   deniers et $\frac{2}{3}$. Et ainsi des autres. 
+
+
+
+
+Sensuit le 8e et et derrenier chapitre
+du nombre roupt qui enseigne a savoir de plusieurs routz quelle partie c'est
+d'un entier. 
+
+
+
+
+C'este huitiesme et derraine partie du nombre roupt et roupt de roupt
+qui se nombre par maniere de entiers. L'on en peut faire ung seul nombre roupt par ceste maniere. 
+
+Reduiz les maieurs rouptz es mineurs en les adioustant ensemble et de tout ce faire numerateur puis apres metz $1$   entier
+en la valeur ou semblans diceulx et de ce fayz denominateur. \ 
+
+
+ Exemple, qui vouldroit savoir de $13$   soltz $4$   deniers quelle partie c'est
+d'une livre de $20$   soltz et le solt de $12$   deniers. Il conviend mectre les $13$   soltz en deniers en
+les adioustant avec $4$   et seront $160$   deniers pour numerateur. En apres conviend mectre $1$   livre en deniers en multipliant
+\ $20$   soltz par $12$   et sont $240$   dessoubz $160$.   Et trouveras $\frac{160}{240}$ qui abreviez sont $\frac{2}{3}$ et par ainsi $13$   soltz $4$   deniers
+sont les $\frac{2}{3}$ de une livre. 
+
+
+
+
+
+ Item plus qui vouldroit savoir de $11$   soltz $5$   deniers et $\frac{1}{7}$ de denier quelle partie c'est
+d'un livre conviend pour le premier mectre les $11$   soltz en deniers et tous les deniers mectre en
+7mes \ de deniers et seront $960$   pour numerateur puis conviend mectre les deniers d'une livre en
+\ 7mes de deniers. Et seront $1680$   pour denominateur or metz $1680$   dessoubz $960$   et trouveras $\frac{960}{1680}$ qui abreviez sont $\frac{4}{7}$ et $\frac{4}{7}$ de livre sont les $11$   soltz $5$   deniers et $\frac{1}{7}$. 
+
+
+
+
+\marginnote{24v°} 
+
+
+
+
+
+ Item plus, qui vouldroit savoir de $7$   gros $3$   deniers et $\frac{1}{65}$ de deniers quelle partie c'est
+d'ung florin de $18$   gros $\frac{2}{3}$ et le gros de $16$   deniers $\frac{4}{5}$ de deniers. Il conviend mectre les $7$   gros $3$   deniers en 65mes de deniers et y adiouster $1$   et l'on trouvera $7840$   pour numerateur . En apres
+conviend mectre $1$   florin en 65mes de deniers et trouveras $20384$   pour denominateur. Or metz le numerateur dessus le
+denominateur et trouveras $\frac{7840}{20384}$ qui abreviez sont $\frac{5}{13}$ et ainsi les $7$   gros $3$   deniers $\frac{1}{65}$ de denier sont $\frac{5}{13}$ de
+florins. 
+
+
+
+
+
+ Item qui vouldroit savoir de $3$   quartiers et $\frac{1}{2}$ quelle partie c'est
+d'une aulne il conviend mectre les $3$   quarties en $\frac{1}{2}$ et sont en tout $7$   pour numerateur puis
+conviend mectre $1$   une en $\frac{1}{2}$ quartiers et sont $8$   pour denominateur. Or metz $8$   dessoubz $7$   et trouveras $\frac{7}{8}$ Et ainsi les $3$   quartiers et $\frac{1}{2}$ sont en tout $\frac{7}{8}$ d'aulne. \ 
+
+
+
+
+
+ Item qui vouldroit savoir de $3$   quartiers $\frac{2}{3}$ de quartier quelle partes c'est
+d'une aulne. Il conviend mectre mes $3$   quartiers en tiers et y adiouster les $2$   et seront $11$   pour
+numerateur puis conviend mectre $1$   aulne en tiers de quartier et seront $12$   pour denominateur. Or metz $12$   dessoubz $11$   et
+seront $\frac{11}{12}$ d'aulne. 
+
+
+
+
+
+ Item qui vouldroit savoir de $7$   onces $\frac{3}{4}$ quelle partis c'est d'une livre
+de $16$   onces conviend mectre les $7$   onces en quarts et y adiouster les $3$.   Et seront $31$   pour numerateur puis conviend
+mectre $16$   onces qui sont $1$   livre en quarts d'once et seront $64$   pour denominateur or metz $64$   dessoubz $31$   et trouveras $64$   de livre et $\frac{31}{64}$ de livre sont les $7$   onces $\frac{3}{4}$. 
+
+
+
+
+
+ Item plus, qui vouldroit savoir de $5$   onces et $8$   deniers quelle partie c'est
+d'ung marc l'on doit mectre les $5$   onces en deniers, les multipliant par $24$   et
+puis y adiouster les $8$   deniers et seront $128$   pour numerateur puis apres conviend mectre $1$   marc en denier multipliant $8$   onces par $24$   et l'on trouvera $192$   pour denominateur \marginnote{25r°} ores metz le denominateur desoubz
+le numerateur et trouveras $\frac{128}{192}$ qui abreviez sont $\frac{2}{3}$ et ainsi $5$   onces $8$   deniers sont $\frac{2}{3}$ de marc. 
+
+
+
+
+
+ Item \ plus qui vouldroit savoir de $4$   onces $19$   deniers $4$   grains et $\frac{4}{5}$ de grain, quelle partie
+c'est d'ung marc conviend mectre les $4$   onces en deniers et les deniers en
+grains et \ les grains en quintz de grain et l'on trouvera $13824$   pour numerateur en apres conviend
+mectre les grains de $1$   marc qui sont $4608$   en quintz de grain et seront $23040$   pour denominateur. Or metz $23040$   dessoubz $13824$   et trouveras $\frac{13824}{23040}$ qui abreviez sont $\frac{3}{5}$. Et par ainsi les $4$   onces $19$   deniers $4$   grains et $\frac{4}{5}$ de grain
+sont3/5 de marc. 
+
+
+
+
+Les prouves du nombre roupt
+
+Des huyt parties de ce nombre roupt la premiere peut estre prouvee par la seconde et la seconde par la premiere et la
+tierce par la quarte et la quarte par la tierce et la quinte par la sixiesme et la sixiesme par la quinte et aussi la
+septiesme par la huitiesme et la huitiesme par la septiesme car l'une est contraire a
+l'autre. 
+
+
+
+
+\paragraph{La prouve de reduction}
+Qui abrevie les nombres reduitz il les retourne en leur premier estat. Exemple qui reduit $\frac{2}{3}$ et $\frac{4}{5}$ il en viend $\frac{10}{15}$ \ et $\frac{12}{15}$. La prouve Abrevie $\frac{10}{15}$ et $\frac{12}{15}$ et trouveras $\frac{2}{3}$ et $\frac{4}{5}$ comme devant. 
+
+
+
+
+\paragraph{La prouve de abreviation}
+Qui multiplie le nombre par celluy ou ceulx que l'on a abrevie, il se retourne en son premier
+estat. Exemple qui abrevie $\frac{32}{48}$ par $16$   il trouve $\frac{2}{3}$ et pareillement qui le abrevie par $2$   et par $8$.   La prouve qui
+multiplie $\frac{2}{3}$ c'est assavoir le numerateur et denominateur par $16$   il trouvera $\frac{32}{48}$ comme dessus. 
+
+
+
+
+La prouve de addition.
+
+\marginnote{25v°} 
+
+Qui sustrait de la somme totale l'ung des nombres adioustez il trouvera
+l'autre ou les autres nombres. Exemple, qui adiouste $\frac{1}{3}$ et $\frac{1}{4}$, \ il trouve $\frac{7}{12}$. La prouve qui
+de $\frac{7}{12}$ lieve $\frac{1}{3}$ qui est l'ung des nombres adioustez il trouvera $\frac{1}{4}$ qui est
+l'autre nombre. 
+
+
+
+
+\paragraph{La prouve de sustraction}
+Qui adiouste le nombre restant et le nombre sustrant il trouve le nombre de qui l'on a fait la
+sustraction. 
+
+Exemple qui de $\frac{1}{3}$ lieve $\frac{1}{4}$ reste $\frac{1}{12}$. La prouve adiouste $\frac{1}{12}$ et $\frac{1}{4}$ et trouveras $\frac{1}{3}$ qui est ce que
+l'on demande. 
+
+
+
+
+\paragraph{La prouve de multiplicacion}
+Qui divisera  le nombre multipliant le nombre multiplie il trouvera le nombre venu de la multiplicacion il trouvera le
+nombre multiplie. Exemple qui multiplie $\frac{2}{3}$ par $\frac{4}{5}$ la multiplicacion monte $\frac{8}{15}$. La prouve partiz $\frac{8}{15}$ par $\frac{4}{5}$ et
+trouveras $\frac{2}{3}$. 
+
+
+
+
+\paragraph{La prouve de division}
+Qui multiplie le quotiens par le partiteur il trouvera le nombre party.
+
+Exemple qui partist $\frac{2}{3}$ par $\frac{3}{4}$ il trouve $\frac{8}{9}$ la prouve multiplie $\frac{8}{9}$ par $\frac{3}{4}$ et trouveras $\frac{2}{3}$. 
+
+\paragraph{La prouve de avaluer le nombre roupt}
+Qui remet la partie ou les parties entieres a ung nombre roupt il trouve le nombre avalue. Exemple qui regarde que
+valent $\frac{2}{3}$ de livre il trouve $13$   s. $4$   deniers. La prouve regarde de $13$   soltz $4$   deniers quelle partie
+c'est d'une livre. Et trouveras $\frac{2}{3}$. 
+
+
+
+
+La prouve de la huitiesme et derraine partie du nombre roupt.
+
+Qui prand la valeur du nombre roupt il trouve les parties entieres qu'il avoit par avant \marginnote{26r°} Exemple qui regarde de $13$   soltz $4$   deniers quelle partie c'est d'une livre
+il trouve $\frac{2}{3}$, la prouve regarder que valent $\frac{2}{3}$ de livre et trouveras $13$   soltz $4$   deniers. 
+
+Et ainsi finist la seconde partie de cest livre. 
+
+
+
+
+Cy commence la tierce partie qui demonstre la maniere de applicquer addition, sustraction, multiplication et division
+tant du nombre entier que du nombre roupt. Et primo 
+
+
+
+
+De addicion
+
+
+
+
+
+ Ung homme doit a ung autre toutes ces parties qui s'ensuivent,
+c'est assavoir $12$   livres $15$   soltz 11deniers $35$   lb. $6$   soltz $9$   deniers $9$   lb. $19$   s. $3$   d. Item $7$   s..
+Item $7$   d. item $17$   lb. dont la livre est de $20$   s. et le solt de $12$   deniers. Assavoir mon combien montent toutes ces
+parties. 
+
+Pour ce faire adiouste pour le premier les deniers, les soltz avec les soltz et les livres avec les livres. Et trouveras $75$   livres $9$   soltz $6$   deniers. Ainsi que l'on peut veoir en l'exemple cy apres
+pose qui demonstre la maniere de coucher ses parties. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.42400002cm}m{1.051cm}m{0.087999985cm}m{1.012cm}m{0.087999985cm}m{0.95199996cm}}
+~
+ & $12$   lb. &
+~
+ & $15$   s. &
+~
+ & $11$   d. \\
+~
+ & $35$   lb. &
+~
+ & $6$   s. &
+~
+ & $9$   d. \\
+~
+ & $9$   lb. &
+~
+ & $19$   s.  &
+~
+ & $3$   d. \\
+~
+ & $0$   lb. &
+~
+ & $7$   s. &
+~
+ & $0$   d. \\
+~
+ & $0$   lb. &
+~
+ & $0$   s.  &
+~
+ & $7$   d. \\
+~
+ & $17$   lb. &
+~
+ & $0$   s.  &
+~
+ & $0$   d. \\\hhline{~-----}
+s° & $75$   lb. &
+~
+ & $9$   s.  &
+~
+ & $6$   d. \\
+\end{supertabular}
+\end{center}
+
+
+
+\marginnote{26v°} 
+
+
+
+
+
+ Item l'on doit a ung homme toutes ces parties qui s'ensuivent
+c'est assavoir $45$   escuz $17$   soltz $9$   deniers. Item $54$   escuz $11$   soltz 10d. ob.. Item $9$   escus $28$   d..
+Item $11$   d.. Item $540$   escuz $12$   soltz. Item $81$   ${\nabla}$, $7$   deniers ob.. Item \ \ $13$   escuz $4$   s. ob. dont
+l'escu veult $28$   soltz $4$   deniers. Assavoir mon que monte tout adiouste chacun et comme cy apres
+appert en l'exemple. Et trouveras $744$   escuz $18$   soltz $6$   deniers ob. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.33600003cm}m{1.8cm}m{0.172cm}m{1.553cm}m{0.17599998cm}m{1.911cm}m{0.18800001cm}m{1.3349999cm}}
+~
+ & $45$   escuz &
+~
+ & $17$   soltz &
+~
+ & $9$   deniers  &
+~
+ &
+~
+\\
+~
+ & $54$   \ . \  &
+~
+ & $11$   \ . &
+~
+ & $10$   \ . 
+
+~
+ &
+~
+ &
+ob. \\
+~
+ & $9$   \ . &
+~
+ & $28$   \ . &
+~
+ & $0$   \ . &
+~
+ &
+~
+\\
+~
+ & $0$   \ . &
+~
+ & $0$   \ . &
+~
+ & $11$   \ . &
+~
+ &
+~
+\\
+~
+ & $540$   \ . &
+~
+ & $12$   \ . &
+~
+ & $0$   \ . &
+~
+ &
+~
+\\
+~
+ & $81$   \ . &
+~
+ & $0$   \ . &
+~
+ & $7$   \ . &
+~
+ &
+ob. \\
+~
+ & $13$   \ . &
+~
+ & $4$   \ . &
+~
+ &
+~
+ &
+~
+ &
+ob. \\\hhline{~-------}
+s & $744$   escuz &
+~
+ & $18$   soltz &
+~
+ & $6$   deniers  &
+~
+ &
+ob. \\
+\end{supertabular}
+\end{center}
+
+
+
+\begin{flushleft}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{2.453cm}m{0.62cm}m{0.991cm}m{1.282cm}}
+~
+ &
+~
+ &
+~
+ &
+5\\
+~
+ &
+~
+ &
+~
+ &
+225\\\hhline{~~~-}
+\multicolumn{3}{m{4.464cm}}{75 s. par $28$   s. 1/3} & $2$   ${\nabla}$\\\hhline{~~~-}
+~
+ & $21$   &
+~
+ &
+85\\
+~
+ & $55$   &
+~
+ &
+~
+\\\hhline{~-~~}
+~
+ & $18$   &
+s. & $4$   d.\\\hhline{~-~~}
+~
+ & $3$   &
+~
+ &
+~
+\\
+\end{supertabular}
+\end{flushleft}
+
+
+
+
+
+
+
+ Item plus est deu a ung homme $12$   escuz $\frac{3}{4}$, item $27$   escuz $\frac{3}{8}$, item $15$   escuz et $\frac{1}{2}$, item $93$   escuz $\frac{2}{3}$, item $40$   escuz $\frac{5}{6}$. Assavoir mon que monte tout  Pource faire reduiz et adiouste les rouptz et puis les entiers ainsi
+qu'il appert en l'exemple cy apres pose. 
+
+
+
+
+\marginnote{27r°}
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.16899998cm}m{1.7689999cm}m{0.73300004cm}m{0.087999985cm}m{0.611cm}m{0.087999985cm}m{0.735cm}m{0.18800001cm}m{0.8cm}m{0.087999985cm}m{0.763cm}m{0.087999985cm}m{0.763cm}m{0.087999985cm}m{0.52500004cm}}
+~
+ & $12$   escus & $\frac{3}{4}$ \  &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+20\\
+~
+ & $27$   \ . & $\frac{3}{8}$  &
+~
+ & $18$   &
+~
+ & $9$   &
+~
+ & $12$   &
+~
+ & $16$   &
+~
+ & $20$   &
+~
+ &
+16\\\hhline{~~~~-~-~-~-~-~~}
+~
+ & $15$   \ . & $\frac{1}{2}$  &
+~
+ & $\frac{3}{4}$ &
+~
+ & $\frac{3}{8}$ &
+~
+ & $\frac{1}{2}$ &
+~
+ & $\frac{2}{3}$ &
+~
+ & $\frac{5}{6}$ &
+~
+ &
+12\\
+~
+ & $93$   \ . & $\frac{2}{3}$ &
+~
+ &
+~
+ &
+\multicolumn{1}{m{0.087999985cm}|}{~
+} &
+\multicolumn{2}{m{1.1229999cm}|}{24} &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+18\\\hhline{~~~~~~--~~~~~~-}
+~
+ & $40$   \ . & $\frac{5}{6}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $13$   &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+75\\\hhline{~--~~~~~~~~~~~~}
+s & $190$   escus & $\frac{1}{8}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $75$   &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\\hhline{~~~~~~~~-~~~~~~}
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $3$   ${\nabla}$ &
+~
+ & $\frac{1}{8}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\\hhline{~~~~~~~~-~~~~~~}
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $24$   &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+\end{supertabular}
+\end{center}
+
+
+
+
+ Item ung homme a achete $14$   aulnes et $\frac{1}{2}$, item $19$   aulnes $\frac{3}{4}$, item $16$   aulnes $\frac{2}{3}$, item $20$   aulnes, item $13$   aulnes $\frac{1}{4}$, item $18$   aulnes $\frac{2}{4}$ et $\frac{1}{2}$. Item \ $9$   aulnes $\frac{2}{3}$ et $\frac{1}{2}$, item $11$   aulnes et $\frac{1}{6}$, item $10$   aulnes $\frac{1}{4}$ et $\frac{1}{2}$, item $15$   aulnes et $\frac{1}{2}$ quartier. Assavoir mon que monte tout  \ 
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.16899998cm}m{1.9749999cm}m{0.087999985cm}m{0.894cm}m{0.087999985cm}m{0.596cm}m{0.087999985cm}m{0.596cm}m{0.147cm}m{0.638cm}m{0.087999985cm}m{0.596cm}m{0.087999985cm}m{0.76100004cm}m{0.087999985cm}m{0.654cm}m{0.087999985cm}m{0.596cm}m{0.087999985cm}m{0.596cm}m{0.087999985cm}m{0.848cm}}
+~
+ & $14$   aulnes &
+~
+ & $\frac{1}{2}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+~
+ & $19$   \ . &
+~
+ & $\frac{3}{4}$ &
+~
+ & $12$   &
+~
+ & $18$   &
+~
+ & $16$   &
+~
+ & $6$   &
+~
+ & $15$   &
+~
+ & $20$   &
+~
+ & $4$   &
+~
+ & $9$   &
+~
+ &
+3\\
+~
+ & $16$   \ . &
+~
+ & $\frac{2}{3}$ &
+~
+ & $\frac{1}{2}$ &
+~
+ & $\frac{3}{4}$ &
+~
+ & $\frac{2}{3}$ &
+~
+ & $\frac{1}{4}$ &
+~
+ & $\frac{5}{8}$ &
+~
+ & $\frac{5}{6}$ &
+~
+ & $\frac{1}{6}$ &
+~
+ & $\frac{3}{8}$ &
+~
+ &
+1/8\\
+~
+ & $20$   \ . &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+\multicolumn{1}{m{0.087999985cm}|}{~
+} &
+\multicolumn{3}{m{1.845cm}|}{24} &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\\hhline{~~~~~~~~~~~---~~~~~~~~}
+~
+ & $13$   \ . &
+~
+ & $\frac{1}{4}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+12\\
+~
+ & $18$   \ . &
+~
+ & $\frac{5}{8}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+18\\
+~
+ &
+\ \ $9$   \ . &
+~
+ & $\frac{5}{6}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+16\\
+~
+ & $11$   \ . &
+~
+ & $\frac{1}{6}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+6\\
+~
+ & $10$   \ . &
+~
+ & $\frac{3}{8}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $27$   &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+15\\
+~
+ & $15$   \ . &
+~
+ & $\frac{1}{8}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $103$   &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+20\\\hhline{~---~~~~~~~~~-~~~~~~~~}
+s & $149$   aulnes &
+~
+ & $\frac{7}{24}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $4$   &
+\multicolumn{3}{m{1.2299999cm}}{aulnes} &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+4\\\hhline{~~~~~~~~~~~~~-~~~~~~~~}
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $24$   &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+9\\
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+3\\
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+103\\
+\end{supertabular}
+\end{center}
+
+
+
+
+
+
+
+ Item ung homme a vendu $5$   quintalz et $10$   livres de plomb, item $3$   quint. $97$   livres $10$   onces, item $7$   quint. $28$   lb. $13$   onces, item $2$   quintalz $83$   livres, item $1$   quintal $9$   onces, item $4$   quintalz, item $20$   quintalz \marginnote{27v°} \ $36$   livres $11$   onces, item $19$   livres $7$   onces. Assavoir mon que monte tout prenant le quintal pour $100$   livres et la livre pour $16$   onces. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.22500001cm}m{2.665cm}m{0.087999985cm}m{1.7509999cm}m{0.087999985cm}m{1.918cm}m{0.21499999cm}}
+~
+ &
+\ \ $5$   quintalz &
+~
+ & $10$   livres  &
+~
+ & $10$   onces  &
+~
+\\
+~
+ &
+\ \ $3$   \ \ . &
+~
+ & $97$   \ . &
+~
+ &
+~
+ &
+~
+\\
+~
+ &
+\ \ $7$   \ \ . &
+~
+ & $28$   \ . &
+~
+ & $13$   onces  &
+~
+\\
+~
+ &
+\ \ $2$   \ \ . &
+~
+ & $83$   \ . &
+~
+ &
+~
+ &
+~
+\\
+~
+ &
+\ \ $1$   \ \ . &
+~
+ &
+\ \ $0$   \ . &
+~
+ &
+\ \ $9$   \ . &
+~
+\\
+~
+ &
+\ \ $4$   \ \ . &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+~
+ & $20$   \ \ . &
+~
+ & $36$   \ . &
+~
+ & $11$   . &
+~
+\\
+~
+ &
+~
+ &
+~
+ & $19$   \ . &
+~
+ &
+\ \ $7$   \ . &
+~
+\\\hhline{~-----~}
+s & $44$   quintalz &
+~
+ & $76$   livres &
+~
+ & $2$   onces &
+~
+\\
+\end{supertabular}
+\end{center}
+
+
+
+
+ Item l'on a vendu $25$   marcs $4$   onces d'argent, item $18$   marcs $7$   onces $13$   deniers $15$   grains $12$   garrobes, item $46$   marcs $3$   onces $19$   grains, item $67$   marcs $21$   deniers $22$   garrobes. Items $5$   onces $23$   grains $20$   garrobes, item $30$   marcs, item $3$   marcs $2$   onces $16$   denier $12$   gr.. Assavoir mon que monte tout. 
+
+
+
+
+
+
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{0.426cm}m{2.017cm}m{0.087999985cm}m{1.532cm}m{0.087999985cm}m{2.0449998cm}m{0.087999985cm}m{1.763cm}m{0.087999985cm}m{2.398cm}}
+~
+ & $25$   marcs &
+~
+ & $4$   onces  &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+~
+ & $18$   \ m.  &
+~
+ & $7$   on.  &
+~
+ & $13$   deniers &
+~
+ & $15$   grains  &
+~
+ & $12$   garrobes\\
+~
+ & $46$   \ m.  &
+~
+ & $3$   on.  &
+~
+ &
+\ \ $0$   d.  &
+~
+ & $19$   gr.  &
+~
+ &
+~
+\\
+~
+ & $67$   \ m.  &
+~
+ & $0$   on.  &
+~
+ & $21$   d. &
+~
+ &
+\ \ $0$   gr.  &
+~
+ & $22$   gar. \\
+~
+ & $30$   \ m.  &
+~
+ & $0$   on.  &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+~
+ &
+\ \ $3$   m.  &
+~
+ & $2$   on.  &
+~
+ & $16$   d.  &
+~
+ & $12$   gr.  &
+~
+ &
+~
+\\
+s. & $191$   marcs  &
+~
+ & $2$   onces &
+~
+ &
+\ \ $3$   d.  &
+~
+ & $23$   gr.  &
+~
+ & $10$   gar. \\
+\end{supertabular}
+\end{center}
+
+
+
+De sustraction 
+
+\marginnote{28r°}
+
+
+
+
+
+ L'on doit a ung homme $75$   livres sur quoy l'un a este paye $57$   livres $12$   soltz $6$   deniers ob. Assavoir mon question luy doit de reste  Pource faire conviend lever ung chacun de son semblable
+c'est assavoir les livres des livres et les soltz des soltz Et ainsi des autres Ainsi
+qu'il appert cy apres par exemple. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.8299999cm}m{0.14400001cm}m{1.55cm}m{0.087999985cm}m{1.763cm}m{0.087999985cm}m{1.0139999cm}m{5.4430003cm}}
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+lb. de $20$   s. et s. de $12$   deniers \\ $75$   livres &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\ $57$   lb. &
+~
+ & $12$   soltz &
+~
+ & $6$   deniers  &
+~
+ &
+ob.  &
+~
+\\\hhline{-------~} $17$   lb. &
+~
+ &
+\ \ $7$   soltz &
+~
+ & $5$   deniers  &
+~
+ &
+ob.  &
+~
+\\
+\end{supertabular}
+\end{center}
+
+
+
+
+ Item plus est deu a ung homme $124$   livres $15$   soltz sur quoy luy a este paye $81$   lb. $10$   s. $10$   d., assavoir mon que
+l'on luy doit plus de reste  Il conviend faire comme dessus et emprunter ou mainlever quant
+besoing est, c'est assavoir $20$   soltz pour les soltz et $12$   deniers pour les deniers et des autres
+selon que vault $1$   entier et tousiours l'on doit tenir $1$   quant l'on a emprunte
+et le rendre incontinent. Ainsi que l'on voit et peut l'on veoir en ces
+exemples. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.0819999cm}m{0.087999985cm}m{1.7609999cm}m{0.087999985cm}m{1.513cm}m{0.087999985cm}m{1.8569999cm}}
+~
+ &
+~
+ & $124$   livres  &
+~
+ & $15$   soltz  &
+~
+ &
+~
+\\
+~
+ &
+~
+ &
+\ \ $81$   lb.  &
+~
+ & $10$   s.  &
+~
+ & $10$   deniers \\\hhline{~~-----}
+Reste  &
+~
+ & $043$   lb. &
+~
+ &
+\ \ $4$   s. \  &
+~
+ &
+\ \ $2$   deniers \\
+\end{supertabular}
+\end{center}
+
+
+
+
+ Item plus est deu a ung homme $236$   escuz $18$   soltz $10$   deniers des $28$   s. $4$   deniers pour ${\nabla}$ sur quoy luy a
+este paye $207$   ${\nabla}$ $12$   s. $6$   d. Assavoir mon que luy est deu. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.0819999cm}m{0.087999985cm}m{1.7609999cm}m{0.087999985cm}m{1.513cm}m{0.087999985cm}m{1.8569999cm}}
+~
+ &
+~
+ & $236$   escuz  &
+~
+ & $15$   soltz  &
+~
+ & $10$   deniers \\
+~
+ &
+~
+ & $207$   ${\nabla}$  &
+~
+ & $12$   soltz  &
+~
+ &
+\ \ $6$   d. \\\hhline{~~-----}
+Reste  &
+~
+ & $029$   escuz  &
+~
+ &
+\ \ $6$   soltz \  &
+~
+ &
+\ \ $4$   deniers \\
+\end{supertabular}
+\end{center}
+
+
+
+\marginnote{28v°} \ 
+
+
+ Item plus est deu a ung homme $240$   escuz et $\frac{1}{2}$ d'escus. La valeur    sur quoy luy a este
+paye $197$   escuz $14$   soltz $8$   deniers. Assavoir mon que luy est deu plus 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.0819999cm}m{0.087999985cm}m{1.7609999cm}m{0.087999985cm}m{1.513cm}m{0.087999985cm}m{1.8569999cm}}
+~
+ &
+~
+ & $240$   escuz  &
+~
+ & $14$   soltz  &
+~
+ &
+\ $2$   deniers \\
+~
+ &
+~
+ & $197$   ${\nabla}$  &
+~
+ & $14$   s.  &
+~
+ &
+\ $8$   deniers\\\hhline{~~-----}
+Reste  &
+~
+ & $042$   ${\nabla}$  &
+~
+ & $27$   s.  &
+~
+ & $10$   deniers \\
+\end{supertabular}
+\end{center}
+
+
+
+
+ Item plus est deu a ung homme $34$   escuz $\frac{2}{3}$, sur quoy luy a este paye $19$   escuz et $\frac{6}{7}$ d'escus
+de la valeur devant dicte. Assavoir mon que luy est deu. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.0819999cm}m{0.087999985cm}m{1.7609999cm}m{0.087999985cm}m{1.513cm}m{0.087999985cm}m{0.624cm}m{0.087999985cm}m{0.763cm}m{0.087999985cm}m{0.513cm}}
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $14$   &
+~
+ & $18$   &
+~
+ &
+35\\\hhline{~~~~~~-~-~~}
+~
+ &
+~
+ & $34$   escus  &
+~
+ & $\frac{2}{3}$ &
+~
+ & $\frac{2}{3}$ &
+~
+ & $\frac{6}{7}$ &
+~
+ &
+18\\\hhline{~~~~~~~~~~-}
+~
+ &
+~
+ & $19$   ${\nabla}$ &
+~
+ & $\frac{6}{7}$ &
+~
+ &
+\multicolumn{3}{m{1.875cm}}{21} &
+~
+ &
+17\\\hhline{~~---~~~~~~}
+Reste  &
+~
+ & $14$   escuz  &
+~
+ & $\frac{17}{21}$ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+\end{supertabular}
+\end{center}
+
+
+
+
+ Item plus est deu a ung homme $305$   florins $7$   gros $10$   deniers de $18$   gros et ½ le florin, sur quoy luy a este paye $129$   florins $10$   gros. Assavoir mon que luy est deu de reste. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.0819999cm}m{0.087999985cm}m{1.9219999cm}m{0.087999985cm}m{1.513cm}m{0.087999985cm}m{2.014cm}m{0.087999985cm}m{0.76100004cm}m{0.087999985cm}m{1.518cm}}
+~
+ &
+~
+ &
+~
+ &
+~
+ & $18$   &
+~
+ & $78$   &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+~
+ &
+~
+ & $305$   florins &
+~
+ &
+\ \ $7$   gros  &
+~
+ & $10$   deniers  &
+~
+ & $\frac{1}{2}$  &
+~
+ &
+~
+\\
+~
+ &
+~
+ & $129$   florins &
+~
+ & $10$   g.  &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\\hhline{~~-------~~}
+Reste  &
+~
+ & $175$   florins &
+~
+ & $16$   gros &
+~
+ & $2$   deniers &
+~
+ & $\frac{1}{2}$ &
+~
+ &
+~
+\\
+\end{supertabular}
+\end{center}
+
+
+
+
+ Item ung marchant avoye ung drap tirant $17$   aulnes $\frac{2}{3}$ dont il en a vendu $9$   aulnes et $\frac{1}{2}$. Assavoir mon que luy
+reste de son drap.
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.0819999cm}m{0.087999985cm}m{1.7609999cm}m{0.087999985cm}m{1.513cm}m{0.087999985cm}m{0.647cm}m{0.333cm}m{0.70100003cm}m{0.551cm}m{0.29900002cm}}
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $4$   &
+~
+ & $3$   &
+~
+ &
+4\\\hhline{~~~~~~-~-~~}
+~
+ &
+~
+ & $17$   aulnes &
+~
+ & $\frac{2}{3}$ &
+~
+ & $\frac{2}{3}$ &
+~
+ & $\frac{1}{2}$ &
+~
+ &
+3\\\hhline{~~~~~~~~~~-}
+~
+ &
+~
+ &
+\ \ $9$   aulnes  &
+~
+ & $\frac{1}{2}$ &
+~
+ &
+\multicolumn{1}{m{0.647cm}|}{~
+} &
+\multicolumn{1}{m{0.333cm}|}{6} &
+~
+ &
+~
+ &
+1\\\hhline{~~---~~-~~~}
+Reste  &
+~
+ & $08$   aulnes &
+~
+ & $\frac{1}{6}$  &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+\end{supertabular}
+\end{center}
+
+
+
+\marginnote{29r°} 
+
+
+ Item plus ung marchant avoit une autre piece de drap tyrant $18$   aulnes $\frac{1}{2}$ dont il en a vendu $13$   aulnes $\frac{2}{3}$ et $\frac{1}{2}$.
+Assavoir mon que luy reste de son drap. 
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.0819999cm}m{0.087999985cm}m{1.7609999cm}m{0.087999985cm}m{1.513cm}m{0.087999985cm}m{0.647cm}m{0.333cm}m{0.70100003cm}m{0.551cm}m{0.29900002cm}}
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ & $3$   &
+~
+ & $5$   &
+~
+ &
+9\\\hhline{~~~~~~-~-~~}
+~
+ &
+~
+ & $18$   aulnes &
+~
+ & $\frac{1}{2}$ &
+~
+ & $\frac{1}{2}$ &
+~
+ & $6$   &
+~
+ &
+5\\\hhline{~~~~~~~~~~-}
+~
+ &
+~
+ & $13$   aulnes  &
+~
+ & $\frac{5}{6}$ &
+~
+ &
+\multicolumn{1}{m{0.647cm}|}{~
+} &
+\multicolumn{1}{m{0.333cm}|}{6} &
+~
+ &
+~
+ &
+4\\\hhline{~~---~~-~~~}
+Reste  &
+~
+ &
+\ \ $4$   aulnes &
+~
+ & $\frac{2}{3}$  &
+~
+ & $8$   &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+\end{supertabular}
+\end{center}
+
+
+
+
+ Item plus ung marchant avoit une piece de drap tirant $20$   aulnes $\frac{3}{4}$ et $\frac{1}{2}$ dont il en a vendu $12$   aulnes $\frac{2}{3}$ et $\frac{1}{2}$. Assavoir mon que luy reste de son drap. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.0819999cm}m{0.087999985cm}m{1.7609999cm}m{0.087999985cm}m{0.90800005cm}m{0.087999985cm}m{0.763cm}m{0.55cm}m{0.8cm}m{0.087999985cm}m{0.513cm}}
+\hhline{~~~~~~-~-~~}
+~
+ &
+~
+ & $20$   aulnes &
+~
+ & $\frac{7}{8}$ &
+~
+ & $42$   &
+~
+ & $40$   &
+~
+ &
+42\\
+~
+ &
+~
+ & $12$   aulnes  &
+~
+ & $\frac{5}{6}$ &
+~
+ & $\frac{7}{8}$ &
+~
+ & $\frac{5}{6}$ &
+~
+ &
+40\\\hhline{~~---~~~~~-}
+Reste  &
+~
+ & $08$   aulnes &
+~
+ & $\frac{1}{24}$  &
+~
+ &
+\multicolumn{1}{m{0.763cm}|}{~
+} &
+\multicolumn{1}{m{0.55cm}|}{48} &
+~
+ &
+~
+ &
+2\\\hhline{~~~~~~~-~~~}
+\end{supertabular}
+\end{center}
+
+
+
+
+ Item l'on devoit a ung marchant $13$   quintalz et $84$   lb. de laine sur quoy luy a este paye $9$   quintalz $56$   lb. $7$   onces et $\frac{1}{2}$ prenant le quintal pour $10$   livres et la livre pour $16$   onces. Assavoir mon que luy est
+deu de reste  
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.0819999cm}m{0.087999985cm}m{1.9449999cm}m{0.087999985cm}m{1.622cm}m{0.087999985cm}m{1.444cm}m{0.087999985cm}m{1.045cm}}
+~
+ &
+~
+ & $13$   quintalz &
+~
+ & $84$   livres  &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+~
+ &
+~
+ &
+\ \ $9$   quintalz \  &
+~
+ & $56$   lb.  &
+~
+ & $7$   onces &
+~
+ &
+1/2\\\hhline{~~-------}
+Reste  &
+~
+ & $04$   quintalz &
+~
+ & $27$   livres &
+~
+ & $8$   onces &
+~
+ &
+1/2\\
+\end{supertabular}
+\end{center}
+
+
+
+
+ Item plus ung marchant avoit $10$   quintalz $9$   lb. $11$   onces $\frac{3}{4}$ d'espicerie de quoy il a vendu $7$   quintalz $76$   lb.. Assavoir mon que luy reste de sa marchandyse. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.0819999cm}m{0.087999985cm}m{1.9449999cm}m{0.087999985cm}m{1.622cm}m{0.087999985cm}m{1.638cm}m{0.087999985cm}m{0.76100004cm}}
+~
+ &
+~
+ & $10$   quintalz &
+~
+ &
+\ \ $9$   livres  &
+~
+ & $12$   onces  &
+~
+ &
+3/4\\
+~
+ &
+~
+ &
+\ \ $7$   quintalz \  &
+~
+ & $76$   lb.  &
+~
+ &
+~
+ &
+~
+ &
+~
+\\\hhline{~~-------}
+Reste  &
+~
+ &
+\ \ $2$   quintalz &
+~
+ & $33$   livres &
+~
+ & $12$   onces &
+~
+ & $\frac{3}{4}$ \\
+\end{supertabular}
+\end{center}
+
+
+
+\marginnote{29v°} 
+
+
+
+
+
+ Item plus estoit deu a ung marchant ou changeur $26$   marcs $3$   onces $17$   grains d'argent sur quoy
+luy a este v   $18$   marcs $16$   deniers $10$   grains $20$   garrobes. Assavoir mon que luy est deu de reste  . 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.0819999cm}m{0.087999985cm}m{1.9449999cm}m{0.087999985cm}m{1.622cm}m{0.087999985cm}m{2.116cm}m{0.087999985cm}m{1.6559999cm}m{2.37cm}}
+~
+ &
+~
+ & $26$   marcs  &
+~
+ & $3$   onces  &
+~
+ &
+\ \ \ $0$   deniers &
+~
+ & $17$   grains  &
+~
+\\
+~
+ &
+~
+ & $18$   m.  &
+~
+ & $0$   onc.  &
+~
+ & $16$   d.  &
+~
+ & $10$   gr.  & $20$   garrobes\\\hhline{~~--------}
+Reste  &
+~
+ &
+\ \ $8$   marcs  &
+~
+ & $2$   onces  &
+~
+ &
+\ \ $8$   deniers &
+~
+ &
+\ \ $6$   gr.  &
+\ \ $4$   garrobes\\
+\end{supertabular}
+\end{center}
+
+
+
+
+ Item plus ung changeur avoit $307$   marcs $18$   grains $21$   garrobes dont il en a vendu $189$   marcs $7$   onces $19$   deniers.
+Assavoir mon que luy reste de son argent. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.37cm}m{0.087999985cm}m{1.657cm}m{0.087999985cm}m{1.119cm}m{0.087999985cm}m{1.7609999cm}m{0.087999985cm}m{2.513cm}} $307$   m. &
+~
+ & $0$   onces &
+~
+ &
+\ \ \ \ $0$   d.  &
+~
+ & $18$   grains  &
+~
+ & $21$   garrobes.\\ $189$   m.  &
+~
+ & $7$   onc.  &
+~
+ & $198$   d.  &
+~
+ &
+~
+ &
+~
+ &
+~
+\\\hline $117$   m.  &
+~
+ & $0$   onc.  &
+~
+ &
+\ \ \ \ $5$   d.  &
+~
+ & $18$   grains  &
+~
+ & $21$   garrobes.\\
+\end{supertabular}
+\end{center}
+
+
+
+De multiplication.
+
+
+
+
+
+ Ilz sont $310$   personnes qui on chacune gaigne $12$   livres $18$   solz $7$   deniers et $\frac{1}{2}$. Assavoir mon combien
+d'argent  Il conviend pour les payer. Pour ce faire multiplie $310$   par $12$   livres et trouveras $3720$   lb., puis multiplie $310$   par \ $18$   soltz et trouveras $5580$   soltz \ puis multiplie $310$   par $7$   deniers et trouveras $2170$   deniers. Puis apres multiplie $310$   par $\frac{1}{2}$ deniers. Et trouveras autres $155$   deniers or adiouste les deniers avec les
+deniers et puis les metz en soltz en partant par $12$.   Et les soltz avec les soltz et puis les metz en livres en partant
+par $20$   et puis adiouste les livres avec les livres et trouveras en tout $4008$   livres $13$   soltz $9$   deniers. Et tant
+d'argent fauldroit pour les payer. 
+
+
+
+
+\marginnote{30r°}
+
+
+
+
+
+ Item ung marchant a mis en marchandise $224$   livres $17$   soltz $8$   deniers et a gaigne chacune livre, $2$   livres $54$   soltz $3$   deniers $\frac{2}{5}$ de deniers. Assavoir mon que monte tout le gaing  Pour ce faire il conviend regarder de $17$   soltz $8$   deniers quelle partie c'est de une livre. Et trouveras que ce sont $\frac{53}{60}$ en apres conviend
+\ regarder $5$   soltz $3$   deniers $\frac{2}{5}$ de denier quelle partie c'est de une livre. Et trouveras que sont $\frac{317}{1200}$ de livre. Or multiplie maintenant $274$   livres $\frac{53}{60}$ par $2$   livres et $\frac{317}{1200}$ et monte la multiplication $622$   livres et $\frac{27481}{72000}$ et tant d'argent monte tout le gaing. 
+
+
+
+
+
+ Item plus ung homme a mis $500$   livres $15$   soltz $10$   deniers et ob. en marchandye. Et tellement que chacune livre a
+gaigne $\frac{3}{4}$ d'escu. Assavoir mon que monte tout le gaing  Pour ce faire conviend regarder $15$   soltz $10$   deniers et $\frac{1}{2}$ quelle partie c'est de une et l'on trouvera $\frac{127}{160}$. Or
+multiplie $500$   livres $\frac{127}{160}$ de livre par $\frac{3}{4}$ et trouveras $375$   escuz et $\frac{381}{640}$ d'escu et tant
+monte tout le gaing. 
+
+
+
+
+
+
+
+
+ Item plus ung marchant a achete une piece de drap tirant $23$   aulnes et $\frac{1}{2}$ de $15$   soltz $7$   deniers
+l'aulne. Assavoir mon que monte tout le drap  Pour ce faire \ multiplie $23 \frac{1}{2}$ par $15$   soltz monte $352$   soltz $6$   deniers, puis multiplie $23 \frac{1}{2}$ par $7$   deniers et monte $164$   deniers et ob. Or metz les deniers en soltz et
+les soltz en livres et trouveras $18$   livres $6$   soltz $2$   d. et ob. et tant vaust tout le drap. 
+
+
+
+
+Ou autrement multiplie $23$   \ $\frac{1}{2}$ \ par $15 \frac{7}{12}$ et trouveras $366$   soltz $\frac{5}{24}$ de solt qui valent comme dessus. 
+
+
+
+
+
+
+
+
+ Item ung marchant a vendu une piece tyrant $17$   aulnes $\frac{2}{3}$ et $\frac{1}{2}$ de $1$   livre $8$   soltz l'aulne.
+Assavoir mon que vault tout le drap  Pour ce faire multiplie tout le drap qui est $17$   aulnes $\frac{5}{16}$ par $1$   livre et monte $17$   livres $\frac{5}{6}$ de livre puis multiplie par $8$   soltz et monte \marginnote{30v°} \ $142$   soltz $8$   deniers or adiouste tout ensemble
+et trouveras $24$   livres $19$   soltz $4$   deniers ou autrement multiplie $17$   aulnes $\frac{5}{6}$ par $1$   livre $\frac{2}{5}$ et trouveras comme
+dessus. 
+
+
+
+
+
+ Item plus ung marchant achete $19$   aulnes $\frac{2}{4}$ et $\frac{1}{2}$ de $3$   livres $14$   soltz $10$   deniers l'aulne.
+Assavoir mon que monte le tout  Pour ce faire multiplie $19$   aulne par $3$   livres $24$   soltz $10$   deniers et trouveras $57$   lb. $266$   soltz $190$   deniers}$ puis pour les $\frac{4}{7}$ prans en les 1/  qui
+est $\frac{1}{2}$ aulne pource prent la $\frac{1}{2}$ de 3£ $14$   s. $10$   deniers est le pris d'une aulne et trouveras $1$   £. $17$   s. $5$   d. $\text{\textgreek{»}}$ } En apres pour $\frac{5}{8}$ qui reste prans le quart de $1$   livre $17$   soltz $5$   deniers. Et
+trouveras $9$   soltz $4$   deniers $\frac{1}{4}$ or adiouste tout et trouveras $73$   livres $8$   soltz $7$   deniers $\frac{1}{4}$. ainsi
+qu'il appert cy apres par exemple. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{2.121cm}m{2.121cm}m{2.121cm}m{2.712cm}} $19$   livres  & $\frac{5}{8}$  &
+~
+ &
+~
+\\ $3$   livres  & $14$   soltz  & $10$   deniers &
+~
+\\\hhline{---~} $57$   livres  & $266$   soltz  & $90$   deniers  &
+~
+\\
+\ \ \ \ \ \ \ \ $1$   \ \ \ . &
+\ \ \ \ \ \ \ $17$   \ \ \ . &
+\ \ \ \ \ $5$   \ \ \ \ . &
+~
+\\
+~
+ &
+\ \ \ \ \ \ \ \ \ $9$   \ \ \ . &
+\ \ \ \ \ $4$   \ \ \ \ . &
+\ 1/4\\\hline $73$   livres & $8$   soltz  & $7$   deniers & $\frac{1}{4}$ de deniers \\
+\end{supertabular}
+\end{center}
+
+
+
+Ou autrement advise de $14$   soltz $10$   deniers quelle partie c'est de une livre et trouveras $\frac{89}{120}$ or
+multiplie $19$   aulnes $\frac{5}{8}$ par $3$   livres $\frac{89}{120}$ et trouveras $73$   livres $\frac{413}{960}$ de livres qui valent $8$   soltz $7$   deniers $\frac{1}{4}$ comme dessus. 
+
+
+
+
+
+ Item ung marchant a achete $7$   quintalz $43$   livres d'espicerie de $40$   livres $12$   soltz le quintal.
+Assavoir mon que monte tout  Pour ce faire multiplier $7$   quintalz $\frac{43}{100}$ par $40$   livres et $\frac{3}{5}$ et trouveras $301$   lb. $\frac{321}{500}$ de livre qui valent $13$   soltz $1$   denier $\frac{23}{25}$ de denier et tant valent les $7$   quintalz et $43$   livres. 
+
+
+
+
+
+ Item plus ung marchant a vendu d'espicerie $57$   quant $90$   livres $12$   onces et $\frac{1}{2}$ a $7$   soltz $6$   deniers $\frac{2}{3}$ la livre. Assavoir mon que vault le tout  \ Pour ce faire multiplie $5790$   livres par $7$   soltz et trouveras $40530$   soltz \marginnote{31r°} puis encore par $6$   deniers et trouveras $34140$   deniers. En apres pour les $\frac{2}{3}$ de deniers prans $2$   foiz le tiers de $5790$   et trouveras a chacun foiz $1930$   deniers puis apres pour les $12$   onces prans $8$   onces qui est $\frac{1}{2}$ livre \ et pour celle $\frac{1}{2}$ prans la $\frac{1}{2}$ de $7$   soltz $6$   deniers $\frac{2}{3}$ et auras $3$   soltz $9$   d. et $\frac{1}{3}$. Et pour les $4$   onces qui
+restent des $12$   prans la $\frac{1}{2}$ de la valeur des $8$   onces et auras $1$   solt $10$   deniers $\frac{2}{3}$. Et pour la $\frac{1}{2}$ once prans la $\frac{1}{8}$ de la valeur des $4$   onces et auras $2$   deniers $\frac{5}{6}$ . Or adiouste tout ensemble et auras $2187$   livres $912$   soltz $6$   deniers $\frac{5}{6}$ de d. . Et tant vault celle espicerie ainsi qu'il appert en cest exemple. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.4549999cm}m{2.174cm}m{0.087999985cm}m{2.68cm}m{0.087999985cm}m{1.6329999cm}m{0.087999985cm}m{2.606cm}}
+~
+ & $5790$   livres  &
+~
+ & $12$   onces  &
+~
+ & $\frac{1}{2}$ &
+~
+ &
+~
+\\
+~
+ & $7$   soltz &
+~
+ & $6$   deniers  &
+~
+ & $\frac{2}{3}$ &
+~
+ &
+~
+\\\hhline{------~~}
+~
+ & $40530$   soltz  &
+~
+ & $34740$   deniers  &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+~
+ &
+~
+ &
+~
+ &
+\ \ \ \ \ $1930$   \ \ . &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+~
+ &
+~
+ &
+~
+ &
+\ \ \ \ \ $1930$   \ \ . &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+~
+ &
+\ \ \ \ \ \ \ \ \ \ \ \ \ $3$   \  &
+~
+ &
+\ \ \ \ \ \ \ \ \ \ \ $9$   \ \ . &
+~
+ & $\frac{1}{3}$ &
+~
+ &
+~
+\\
+~
+ &
+\ \ \ \ \ \ \ \ \ \ \ \ \ $1$   &
+~
+ &
+\ \ \ \ \ \ \ \ \ $10$   \ \ . &
+~
+ & $\frac{2}{3}$ &
+~
+ &
+~
+\\
+~
+ &
+~
+ &
+~
+ &
+\ \ \ \ \ \ \ \ \ \ \ $2$   \ \ . &
+~
+ & $\frac{5}{6}$ &
+~
+ &
+~
+\\\hline
+Somme & $2187$   livres  &
+~
+ & $12$   soltz  &
+~
+ & $6$   deniers  &
+~
+ & $\frac{5}{6}$ de deniers \\
+\end{supertabular}
+\end{center}
+
+
+
+Ou autrement multiplie $5790$   lb. $\frac{25}{32}$ de livre par $7$   soltz $\frac{5}{9}$ et trouveras $43752$   soltz $\frac{164}{288}$ de solt qui valent en
+tout $2187$   livres $12$   soltz $6$   deniers $\frac{5}{6}$ de denier comme devant. 
+
+
+
+
+
+ Item plus ung marchant a vendu $13$   \ marc $5$   onces d'argent de $8$   livres $15$   soltz le marc,
+l'on demande que vault le tout  Pour ce faire multiplie $13$   marcs par $8$   livres et trouveras $104$   livres en apres pour les $15$   soltz prans $10$   soltz qui sont $\frac{1}{2}$ livre. Et pourtant prans la $\frac{1}{2}$ de $13$   marcs et auras
+\marginnote{31v°} $6$   livres $10$   soltz et pour les $5$   soltz restants de $15$   prans la $\frac{1}{2}$ de la valeur des $10$   soltz et trouveras $3$   livres $5$   soltz. item pour les $5$   onces prans pour les $4$   onces qui sont $\frac{1}{2}$ marc. La moitie de $8$   livres $15$   soltz qui sont $4$   livres $7$   soltz $6$   deniers et pour l'once qui res  et prans le $\frac{1}{4}$ de $4$   livres $7$   solz $6$   deniers.
+Et trouveras $1$   livre $1$   solt $10$   deniers et $\frac{1}{2}$. Or adiouste tout trouveras $119$   livres $4$   soltz $4$   deniers. Ainsi
+qu'il appert cy apres. 
+
+
+
+
+\begin{center}
+\tablefirsthead{}
+\tablehead{}
+\tabletail{}
+\tablelasttail{}
+\begin{supertabular}{m{1.4549999cm}m{2.174cm}m{0.087999985cm}m{1.94cm}m{0.823cm}m{1.638cm}m{0.087999985cm}m{2.606cm}}
+~
+ & $13$   marcs \  &
+~
+ & $5$   onces  &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+~
+ & $8$   livres  &
+~
+ &
+\ \ \ \ $5$   soltz &
+~
+ &
+~
+ &
+~
+ &
+~
+\\\hhline{------~~}
+~
+ & $104$   livres &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+~
+ &
+\ \ \ \ \ \ \ \ \ $6$   \ \ .  &
+~
+ &
+\ \ \ \ \ $10$   soltz  &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+~
+ &
+\ \ \ \ \ \ \ \ \ $3$   \ \ . &
+~
+ &
+\ \ \ \ \ \ \ $5$    &
+~
+ &
+~
+ &
+~
+ &
+~
+\\
+~
+ &
+\ \ \ \ \ \ \ \ \ $4$   \ \ . \ \  &
+~
+ &
+\ \ \ \ \ \ \ $7$    &
+~
+ & $6$   deniers  &
+~
+ &
+~
+\\
+~
+ &
+\ \ \ \ \ \ \ \ \ $1$   \ . \ \ \ \  &
+~
+ &
+\ \ \ \ \ \ $1$    &
+~
+ & $10$    &
+~
+ &
+ob. \\
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+ &
+~
+\\\hline
+~
+ &
+\ \ \ $119$   livres &
+~
+ &
+\ \ \ \ \ \ $4$   soltz &
+~
+ & $4$   deniers &
+~
+ &
+ob. \\
+\end{supertabular}
+\end{center}
+
+
+
+Ou autrement multiplie $13$   marcs $\frac{5}{8}$ par $8$   livres $\frac{3}{4}$ et trouveras $119$   livres et $\frac{7}{32}$ de livre qui valent $4$   soltz $4$   deniers ob. comme dessus. 
+
+
+
+
+De division. 
+
+
+
+
+
+ Ilz sont $310$   personnes qui ont a partir $4008$   livres $13$   soltz $9$   deniers assavoir mon combien il en viend a chacun 
+\ Pour ce faire partiz $4008$   livres par $310$   personnes et trouveras $12$   livres et encore restent 288[/310] livres
+qu'il conviend metre en soltz et y adiouster les $13$   soltz et seront $5773$   soltz et y adiouster les $13$   soltz et seront $5773$   soltz qu'il conviend partir par $310$   et trouveras $18$   soltz et restent $193$   soltz qu'il conviend mectre en derniers et y adiouster les $9$   et seront $2325$   deniers partiz par $310$   et trouveras $7$   deniers et ob. et ainsi viend a chacun $12$   livres $18$   soltz et $7$   deniers et ob. 
+
+
+
+
+\marginnote{32r°}
+
+
+
+
+
+ Item ung homme a mis en marchandye $274$   livres $17$   soltz $8$   deniers qui par l'espace
+d'ung temps ont gaigne $622$   livres $7$   soltz $7$   deniers $\frac{181}{300}$ de denier. Assavoir mon combien
+chacune livre a gaigne. Pour ce faire \ partiz $622 \frac{27481}{72000}$ de livre qui sont les $7$   soltz $7$   deniers par $274$   livres $\frac{53}{60}$ de livre qui sont les $17$   soltz $8$   deniers et trouveras $2$   livres $5$   soltz $3$   deniers $\frac{2}{3}$ de deniers et tant a gaigne
+chacune livre. 
+
+
+
+
+
+ Item plus ung homme a mis $500$   livres $15$   soltz $10$   deniers et ob. en marchandye et tellement
+qu'il a gaigne $375$   escuz $\frac{381}{640}$ d'escu. Assavoir mon que luy a gaigne
+chacune livre pour ce faire partiz $375$   escuz $\frac{381}{640}$ par $500$   livres $\frac{127}{160}$ et trouveras $\frac{3}{4}$ et tant luy a gaigne
+chacune livre. 
+
+
+
+
+
+ Item plus ung marchant a achete une piece de drap tirant $23$   aulnes et $\frac{1}{2}$ qui luy couste $18$   livres $6$   soltz $2$   deniers et ob. Assavoir mon que luy couste l'aulne  Pour ce faire partiz
+l'argent par le drap c'est assavoir $18$   livres $\frac{149}{480}$ de livre par $23$   aulnes
+et $\frac{1}{2}$ et trouveras $\frac{17578}{22560}$ de livre qui valent $15$   soltz $7$   deniers et tant luy couste l'aulne.
+
+
+
+
+
+Ou autrement partiz $4394$   deniers et $\frac{1}{2}$ qui sont les $18$   livres $6$   soltz $2$   deniers et ob. par $23 \frac{1}{2}$ et trouveras $15$   soltz $7$   deniers comme dessus. 
+
+
+
+
+
+ Item ung marchant a vendu une piece de drap tirant \ tirant $17$   aulnes $\frac{2}{3}$ et $\frac{1}{2}$ la somme de $24$   livres $19$   soltz $4$   deniers. Assavoir mon que couste l'aulne  Pour ce faire advise $19$   soltz $4$   deniers quelle partis
+c'est de une livre et trouveras $\frac{29}{30}$. Or partiz $24$   livres et $\frac{29}{36}$ par $17$   aulnes $\frac{5}{6}$ et trouveras $1$   livre $\frac{1284}{3210}$ qui valent $8$   soltz. Ou autrement partiz par $17$   et $\frac{5}{6}$ et trouveras $336$   deniers qui valent $28$   soltz
+comme dessus. 
+
+
+
+
+\marginnote{32v°} 
+
+
+
+
+
+ Item plus ung marchant a achete $19$   aulnes $2$   quartiers et $\frac{1}{2}$ de draps la pris de $73$   livres $8$   soltz $7$   deniers et $\frac{1}{4}$ Assavoir mon a combien luy viend l'aulne  Pour ce faire partiz $73$   livres $\frac{413}{96}$ par $9 \frac{5}{8}$ et
+trouveras $3$   livres $\frac{111784}{150020}$ de livre qui vallent $14$   soltz $10$   deniers et a $3$   livres $14$   soltz $10$   deniers luy viend
+l'aulne. 
+
+Ou autrement partiz $17633$   deniers $\frac{1}{4}$ qui sont les $73$   livres $8$   soltz $7$   deniers et $\frac{1}{4}$ par $19$   aulnes $11 \frac{5}{8}$ et trouveras $898$   deniers qui valent $74$   soltz $3$   lb. $14$   s. } $10$   d. comme
+dessus. 
+
+
+
+
+
+ Item plus ung marchant a achete $7$   quintalz $43$   lb. d'espicerie qui luy ont couste $301$   livres $13$   soltz $1$   d. $\frac{23}{25}$ de deniers. Assavoir mon que luy couste le quintal  Pour ce faire conviend partir
+l'argent par le poys mais premier conviend regarder $13$   soltz $1$   denier $\frac{23}{25}$ de denier quelle
+partie c'est d'une livre. Et trouveras $\frac{329}{500}$ puis regarde $43$   livres quelle
+partie c'est d'ung quintal et trouveras $\frac{43}{100}$. Or partiz $301$   livres $\frac{329}{500}$ par $7 \frac{43}{100}$ et trouveras $40$   livres et $\frac{3}{5}$ qui valent $12$   soltz et $40$   lb. $12$   soltz luy couste le quintal. 
+
+Ou autrement partiz $72397$   deniers $\frac{23}{25}$ par $7 \frac{43}{100}$ et trouveras $9744$   deniers qui valent $40$   livres $12$   soltz comme
+dessus. 
+
+
+
+
+
+ Item plus ung marchant a vendu $57$   quintalz $90$   livres $12$   onces $\frac{1}{2}$ d'espices, la somme de $2187$   livres $12$   soltz $6$   deniers $\frac{5}{6}$ de deniers. Assavoir mon que couste la livre, ou combien il l'a
+vendu  Pour ce faire conviend partir $2187$   livres $\frac{181}{288}$ par $5790$   livres $\frac{25}{32}$ de livre et trouveras $\frac{17}{45}$ de livres
+qui valent $7$   soltz $6$   deniers et $\frac{2}{3}$ et tant a vendu la livre. Ou autrement partiz $524030$   deniers $\frac{5}{6}$ par $5790$   livres $\frac{25}{32}$ et trouveras $90$   deniers $\frac{2}{3}$ qui valent $7$   soltz $6$   deniers $\frac{2}{9}$ comme devant.
+
+
+
+
+
+ Item plus ung changeur a vendu $13$   marcs $5$   onces d'argent le pris de $119$   livres $4$   soltz $4$   deniers et ob. Assavoir mon a quel pris il a vendu le marc  Pour ce faire conviend partir $119$   livres $\frac{7}{32}$ de livre par $13$   marcs \marginnote{33r°} \ Et trouveras $2100$   deniers qui valent \ $8$   livres $15$   s. comme devant. 
+
+
